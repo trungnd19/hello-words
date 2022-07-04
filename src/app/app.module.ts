@@ -5,12 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-
-import {MatInputModule} from '@angular/material/input';
-import {MatCardModule} from '@angular/material/card';
-import {MatButtonModule} from '@angular/material/button';
-import {MatToolbarModule} from '@angular/material/toolbar';
-import {MatExpansionModule} from '@angular/material/expansion';
+import { SharedModule } from './shared/shared.module';
 
 
 
@@ -25,11 +20,7 @@ import {MatExpansionModule} from '@angular/material/expansion';
     AppRoutingModule,
     FormsModule,
     BrowserAnimationsModule,
-    MatInputModule,
-    MatCardModule,
-    MatButtonModule,
-    MatToolbarModule,
-    MatExpansionModule
+    SharedModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
