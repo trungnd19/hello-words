@@ -3,3 +3,11 @@
   justify-content: flex-end;
   align-items: flex-end;
 }
+
+@media (min-width: 992px) {
+  ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+

@@ -2,10 +2,26 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
-  // { path: 'first-component', component: FirstComponent },
-  // { path: 'second-component', component: SecondComponent },
-  // { path: '',   redirectTo: '/first-component', pathMatch: 'full' }, // redirect to `first-component`
-  // { path: '**', component: PageNotFoundComponent },  // Wildcard route for a 404 page
+  {
+    path: "",
+    loadChildren: () =>
+      import("./pages/new-word/new-word.module").then((m) => m.NewWordModule),
+  },
+  // {
+  //   path: "new-word",
+  //   loadChildren: () =>
+  //     import("./pages/new-word/new-word.module").then((m) => m.NewWordModule),
+  // },
+  {
+    path: "my-words-list",
+    loadChildren: () =>
+      import("./pages/my-words-list/my-words-list.module").then((m) => m.MyWordsListModule),
+  },
+  {
+    path: "guide",
+    loadChildren: () =>
+      import("./pages/guide/guide.module").then((m) => m.GuideModule),
+  }
 ];
 
 @NgModule({

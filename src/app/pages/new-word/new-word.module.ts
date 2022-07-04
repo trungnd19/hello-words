@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { NewWordComponent } from './new-word.component';
+import { NewWordRoutingModule } from './new-word-routing.module';
 
 
 
@@ -9,7 +10,8 @@ import { NewWordComponent } from './new-word.component';
     NewWordComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    NewWordRoutingModule
   ]
 })
 export class NewWordModule { }
