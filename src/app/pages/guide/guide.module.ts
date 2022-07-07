@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { GuideComponent } from './guide.component';
+import { GuideRoutingModule } from './guide-routing.module';
 
 
 
@@ -9,7 +10,8 @@ import { GuideComponent } from './guide.component';
     GuideComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    GuideRoutingModule
   ]
 })
 export class GuideModule { }
