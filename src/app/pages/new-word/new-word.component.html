@@ -1,3 +1,21 @@
 <div class="new-word-container">
-  <p>new word worked!</p>
+  <div class="en-section">
+    <h1 class="text-word">{{ newWord }}</h1>
+    <p class="text-type">{{ wordType }}</p>
+    <p class="text-phonetic">{{ wordPhonetic }}</p>
+    <audio controls [src]="wordAudio">
+      <!-- <source [src]="wordAudio" type="audio/mpeg" /> -->
+      Your browser does not support the audio element.
+    </audio>
+    <p class="en-definition">{{ wordEnDefinition }}</p>
+    <p class="en-example">{{ wordEnExample }}</p>
+  </div>
+  <div class="vn-section">
+    <p class="vn-definition">{{ wordVnDefinition }}</p>
+    <p class="vn-example">{{ wordVnExample }}</p>
+  </div>
+  <div class="btn-section">
+    <button type="button" (click)="showNextWord()">I want to learn more!</button>
+    <button type="button" (click)="addFavourite()">Add to my list</button>
+  </div>
 </div>
