@@ -35,8 +35,12 @@
 
   --light-mode-background:#dfe6e9;
   --light-mode-text:#2d3436;
+
+  --dark-mode-background: rgb(15, 21, 31);
+  --dark-mode-text: #FFFFFF;
 }
 
+// font-family: 'atlas-grotesk-reg';
 *,
 *::before,
 *::after {
