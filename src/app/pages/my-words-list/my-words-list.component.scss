@@ -1,0 +1,11 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: var(--light-mode-background);
+  color: var(--light-mode-text);
+  font-weight: bold;
+  // font-size: 2em;
+}

@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "word": "abide by",
+      "partOfSpeech":"v",
+      "meaning": {
+        "en_meaning":"to accept and act according to a law, an agreement",
+        "vn_meaning":"tôn trọng, tuân theo, giữ (lời)"
+      },
+      "example": {
+        "en_example":"Two parties agreed to abide by the judge's decision.",
+        "vn_example":"Hai bên đồng ý tuân theo quyết định của thẩm phán."
+      },
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/abide-us.mp3",
+      "phonetic":"/əˈbaɪd/",
+      "isAddedFavourite": false
+    },
+    {
+      "word": "agreement",
+      "partOfSpeech":"n",
+      "meaning": {
+        "en_meaning":"an arrangement, a promise or a contract made with somebody",
+        "vn_meaning":"hợp đồng, giao kèo, sự đồng ý/thỏa thuận với nhau"
+      },
+      "example": {
+        "en_example":"According to the agreement, the caterer will also supply the flowers for the event.",
+        "vn_example":"Theo thỏa thuận, nhà cung cấp dịch vụ ăn uống cũng sẽ cung cấp hoa cho sự kiện."
+      },
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/agreement-us.mp3",
+      "phonetic":"/ə'gri:mənt/",
+      "isAddedFavourite": false
+    },
+    {
+      "word": "assurance",
+      "partOfSpeech":"n",
+      "meaning": {
+        "en_meaning":"a statement that something will certainly be true or will certainly happen",
+        "vn_meaning":"sự cam đoan, bảo đảm, chắc chắn; sự tin chắc, tự tin"
+      },
+      "example": {
+        "en_example":"The sales associate gave his assurance that the missing keyboard would be replaced the next day.",
+        "vn_example":"Đối tác bán hàng cam đoan rằng ngày mai bàn phím lỗi sẽ được thay thế."
+      },
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/assurance-us.mp3",
+      "phonetic":"/ə'ʃuərəns/",
+      "isAddedFavourite": false
+    },
+    {
+      "word": "cancellation",
+      "partOfSpeech":"n",
+      "audio":"https://upload.wikimedia.org/wikipedia/commons/9/9c/LL-Q1860_%28eng%29-Vealhurl-cancellation.wav",
+      "phonetic":"/,kænse'leiʃn/",
+      "meaning": {
+        "en_meaning":"a decision to stop something that has already been arranged from happening",
+        "vn_meaning":"sự bãi bỏ, hủy bỏ"
+      },
+      "example": {
+        "en_example":"The cancelation of her flight caused her problems for the rest of the week.",
+        "vn_example":"Việc hủy chuyến bay đã gây cho cô ấy nhiều vấn đề trong những ngày còn lại của tuần."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "determine",
+      "partOfSpeech":"v",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/determine-uk.mp3",
+      "phonetic":"/di'tə:min/",
+      "meaning": {
+        "en_meaning":"to find out; to influence",
+        "vn_meaning":"xác định, định rõ; quyết tâm, kiên quyết"
+      },
+      "example": {
+        "en_example":"After reading the contract, I was still unable to detemine if our company was liable for back wages.",
+        "vn_example":"Sau khi đọc hợp đồng, tôi vẫn không thể biết được liệu rằng công ty của chúng tôi có phải chịu trách nhiệm hoàn trả lại lương không."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "engage",
+      "partOfSpeech":"v",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/engage-us.mp3",
+      "phonetic":"/in'geidʤ/",
+      "meaning": {
+        "en_meaning":"to become involved in, to participate",
+        "vn_meaning":"(cùng) tham gia vào; thuê làm"
+      },
+      "example": {
+        "en_example":"He engaged us in a fascinating discussion about current business law.",
+        "vn_example":"Anh ấy cùng chúng tôi thảo luận sôi nổi về luật kinh doanh hiện hành."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "establish",
+      "partOfSpeech":"v",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/establish-us.mp3",
+      "phonetic":"/is'tæbliʃ/",
+      "meaning": {
+        "en_meaning":"to start or create an organization, a system",
+        "vn_meaning":"thiết lập, thành lập; xác minh, chứng minh, củng cố"
+      },
+      "example": {
+        "en_example":"The merger of the two company established a powerful new corporation.",
+        "vn_example":"Sự liên kết giữa 2 công ty tạo nên một tập đoàn kinh tế hùng mạnh."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "obligate",
+      "partOfSpeech":"v",
+      "audio":"https://upload.wikimedia.org/wikipedia/commons/7/76/LL-Q1860_%28eng%29-Vealhurl-obligate.wav",
+      "phonetic":"/'ɔbligeit/",
+      "meaning": {
+        "en_meaning":"to bind legally or morally",
+        "vn_meaning":"bắt buộc, ép buộc, ràng buộc"
+      },
+      "example": {
+        "en_example":"The contractor was obligated by the contract to work 40 hours a week.",
+        "vn_example":"Theo hợp đồng, nhà thầu bắt buộc phải làm việc 40 giờ một tuần."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "party",
+      "partOfSpeech":"n",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/party-ca.mp3",
+      "phonetic":"/'pɑ:ti/",
+      "meaning": {
+        "en_meaning":"one of the people or groups of people involved in a legal agreement",
+        "vn_meaning":"đảng, phái, đội, nhóm; người tham dự/tham gia; buổi liên hoan, buổi tiệc"
+      },
+      "example": {
+        "en_example":"The parties agreed to settlement in their contract dispute.",
+        "vn_example":"Các bên đã nhất trí đi đến một thỏa thuận trong hợp đồng còn nhiều bất đồng của họ."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "provision",
+      "partOfSpeech":"n",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/provision-us.mp3",
+      "phonetic":"/pɹəˈvɪʒ.ən/",
+      "meaning": {
+        "en_meaning":"the act of providing something; a statement within an agreement or a law",
+        "vn_meaning":"việc cung cấp, cung ứng; điều khoản trong luật"
+      },
+      "example": {
+        "en_example":"The provision of good public transport will be essential for developing the area.",
+        "vn_example":"Việc cung cấp giao thông công cộng tốt sẽ là yếu tố cần thiết để phát triển khu vực."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "resolve",
+      "partOfSpeech":"v",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/resolve-1-us.mp3",
+      "phonetic":"/ri'zɔlv/",
+      "meaning": {
+        "en_meaning":"to solve or end a problem or difficulty",
+        "vn_meaning":"giải quyết một vấn đề, khó khăn"
+      },
+      "example": {
+        "en_example":"They had an awful row several years ago, but now they've resolved their differences.",
+        "vn_example":"Họ đã có một cuộc tranh cãi kinh hoàng vài năm trước, nhưng bây giờ họ đã giải quyết được sự khác biệt của mình."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "specific",
+      "partOfSpeech":"v",
+      "audio":"https://api.dictionaryapi.dev/media/pronunciations/en/specific-us.mp3",
+      "phonetic":"/spəˈsɪf.ɪk/",
+      "meaning": {
+        "en_meaning":"relating to one thing and not others; particular",
+        "vn_meaning":"cụ thể, rõ ràng, chi tiết"
+      },
+      "example": {
+        "en_example":"Can you be more specific about where your back hurts?",
+        "vn_example":"Bạn có thể nói cụ thể hơn là lưng bạn bị đau ở đâu không?"
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "attract",
+      "partOfSpeech":"v",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attract-uk.mp3",
+      "phonetic":"/ə'trækt/",
+      "meaning": {
+        "en_meaning":"to draw by appeal",
+        "vn_meaning":"hấp dẫn, lôi cuốn, thu hút"
+      },
+      "example": {
+        "en_example":"The display attracted a number of people at the convention.",
+        "vn_example":"Việc trưng bày đã thu hút được một số người tại hội nghị."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "compare",
+      "partOfSpeech":"v",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compare-us.mp3",
+      "phonetic":"/kəm'peə/",
+      "meaning": {
+        "en_meaning":"to examine people or things to see how they are similar and how they are different",
+        "vn_meaning":"so sánh, đối chiếu"
+      },
+      "example": {
+        "en_example":"Once the customer compared the two products, her choice was easy.",
+        "vn_example":"Một khi khách hàng so sánh hai sản phẩm, sự lựa chọn của cô ấy rất dễ dàng."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "competition",
+      "partOfSpeech":"n",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/competition-us.mp3",
+      "phonetic":"/,kɔmpi'tiʃn/",
+      "meaning": {
+        "en_meaning":"a situation in which people or organizations compete with each other for something that not everyone can have",
+        "vn_meaning":"cạnh tranh, tranh giành, thi đấu"
+      },
+      "example": {
+        "en_example":"In the competition for afternoon dinners, Hector's has come out on top.",
+        "vn_example":"Trong cuộc thi của các quán ăn chiều, quán Hector đã được xếp hạng nhất."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "consume",
+      "partOfSpeech":"v",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consume-uk.mp3",
+      "phonetic":"/kən'sju:m/",
+      "meaning": {
+        "en_meaning":"to use something, especially fuel, engery or time",
+        "vn_meaning":"tiêu thụ, tiêu dùng"
+      },
+      "example": {
+        "en_example":"The printer consumes more toner than the downstairs printer.",
+        "vn_example":"Cái máy in ngốn nhiều ống mực hơn là cái máy in ở dưới nhà."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "convince",
+      "partOfSpeech":"v",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convince-us.mp3",
+      "phonetic":"/kən'vins/",
+      "meaning": {
+        "en_meaning":"to make somebody / yourselft believe that something is true",
+        "vn_meaning":"Thuyết phục"
+      },
+      "example": {
+        "en_example":"He convinced me that he was right.",
+        "vn_example":"Anh ấy đã thuyết phục tôi rằng anh ấy đã đúng."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "currently",
+      "partOfSpeech":"adv",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/currently-us.mp3",
+      "phonetic":"/ˈkʌrəntli/",
+      "meaning": {
+        "en_meaning":"at the present time",
+        "vn_meaning":"hiện thời, hiện nay, lúc này"
+      },
+      "example": {
+        "en_example":"Currently, customers are demanding big discounts for bulk orders.",
+        "vn_example":"Hiện tại, khách hàng đang đòi hỏi những khoản giảm giá nhiều cho những đơn hàng lớn."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "fad",
+      "partOfSpeech":"n",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fad-uk.mp3",
+      "phonetic":"/fæd/",
+      "meaning": {
+        "en_meaning":"something that people are interested in for only a short period of time.",
+        "vn_meaning":"mốt, xu hướng nhất thời"
+      },
+      "example": {
+        "en_example":"There was a fad for wearing ripped jeans a few years ago.",
+        "vn_example":"Cách đây vài năm đã có mốt mặc quần jeans rách."
+      },
+      "isAddedFavourite": false
+    },
+    {
+      "word": "inspiration",
+      "partOfSpeech":"n",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inspiration-us.mp3",
+      "phonetic":"/,inspə'reiʃn/",
+      "meaning": {
+        "en_meaning":"a thing or person that arouses a feeling",
+        "vn_meaning":"người/ vật/ sự việc truyền cảm hứng, nguồn cảm hứng"
+      },
+      "example": {
+        "en_example":"The golden autumn light provided the inspiration for the painting.",
+        "vn_example":"Ánh sáng mùa thu vàng đã mang lại nguồn cảm hứng cho bức tranh."
+      },
+      "isAddedFavourite": false
+    }
+  ]
+}

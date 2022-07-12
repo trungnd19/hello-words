@@ -1,1 +1,36 @@
-<p>my-words-list works!</p>
+<table class="table table-striped" *ngIf="isHavingDataStorage; else noData">
+  <thead>
+  <tr>
+    <th scope="col">Word</th>
+    <th scope="col">Meaning</th>
+    <th scope="col">Example</th>
+    <th scope="col"></th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let word of wordsList">
+    <td>
+      <!-- <img [src]="'https://upload.wikimedia.org/wikipedia/commons/' + country.flag" class="me-2" style="width: 20px"> -->
+      {{ word.word }}
+    </td>
+    <td>{{ word.vn_meaning }}</td>
+    <td>{{ word.example }}</td>
+    <td><button (click)="handleDelete(word)">Delete</button></td>
+  </tr>
+  </tbody>
+</table>
+
+<ng-template #noData>
+<h1>No words added yet!</h1>
+</ng-template>
+
+<div class="d-flex justify-content-between p-2" *ngIf="isHavingDataStorage">
+  <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize" (pageChange)="getWordsData()">
+  </ngb-pagination>
+
+  <select class="form-select" style="width: auto" [(ngModel)]="pageSize" (ngModelChange)="getWordsData()">
+    <option [ngValue]="2">2 items per page</option>
+    <option [ngValue]="4">4 items per page</option>
+    <option [ngValue]="6">6 items per page</option>
+  </select>
+</div>
