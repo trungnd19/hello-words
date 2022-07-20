@@ -1,0 +1,5111 @@
+[
+  {
+    "meaning": "to consider or include something when you are making plans or judging a situation",
+    "phrase": "allow for sth",
+    "example": "If you allow for inflation, he's actually earning less money now than he was 10 years ago."
+  },
+  {
+    "meaning": "if someone, especially a child, answers back, or answers someone back, they reply rudely to someone they should be polite to",
+    "phrase": "answer (sb) back",
+    "example": "impolite children who answer back when their teacher corrects them."
+  },
+  {
+    "meaning": "to ask for information about someone, especially about their health",
+    "phrase": "ask after sb/sth",
+    "example": "He asked after my wife's health."
+  },
+  {
+    "meaning": "to invite someone to come with you to a place such as the cinema or a restaurant, especially as a way of starting a romantic relationship",
+    "phrase": "ask out sb or ask sb out",
+    "example": "Are you going to ask her out?"
+  },
+  {
+    "meaning": "to invite someone to come to your house",
+    "phrase": "ask sb over/round",
+    "example": "I already asked Kelly over tonight—do you want to come too?"
+  },
+  {
+    "meaning": "to admit that you are wrong or that you have been defeated, often because you are forced to",
+    "phrase": "back down",
+    "example": "Local residents have forced the local council to back down from/on its plans to build a nightclub on their street."
+  },
+  {
+    "meaning": "to stop being involved in a situation, especially in order to allow other people to deal with it themselves",
+    "phrase": "back off",
+    "example": "Just back off and let us do this on our own, will you?"
+  },
+  {
+    "meaning": "if a building back onto something, it back faces that thing",
+    "phrase": "back onto sth",
+    "example": "The house backs onto a narrow alley."
+  },
+  {
+    "meaning": "to decide not to do something that you were going to do or that you had agreed to do",
+    "phrase": "back out",
+    "example": "You agreed to come. You can't back out now!"
+  },
+  {
+    "meaning": "to make a copy of computer information so that you do not lose it",
+    "phrase": "back up (sth) or back (sth) up",
+    "example": "Make sure you back up your files."
+  },
+  {
+    "meaning": "to support or help someone",
+    "phrase": "back up sb or back sb up",
+    "example": "My family backed me up throughout the court case."
+  },
+  {
+    "meaning": "to knock against something, usually by accident",
+    "phrase": "bang into sth",
+    "example": "I banged into a chair and hurt my leg."
+  },
+  {
+    "meaning": "to expect something or depend on something happening",
+    "phrase": "bank on sth",
+    "example": "You can bank on my support."
+  },
+  {
+    "meaning": "to expect something to happen and be prepared for it",
+    "phrase": "bargain for/on sth",
+    "example": "The strength of opposition to the project was more than she'd bargained for."
+  },
+  {
+    "meaning": "to shout encouragement to the players in a football team",
+    "phrase": "barrack for sb",
+    "example": "In Australia, to cheer for or support a sporting team is to barrack. For example, someone may ask you “who do you barrack for?”"
+  },
+  {
+    "meaning": "to treat something or someone in a rough way",
+    "phrase": "bash sth/sb about",
+    "example": "The mugger had bashed her about."
+  },
+  {
+    "meaning": "to tell someone angrily that something they have done is wrong",
+    "phrase": "bawl out sb or bawl sb out",
+    "example": "He could make actors burst into tears when he bawled them out for some trivial error."
+  },
+  {
+    "meaning": "if an event, person, or place is booked up, they have no space or time available for someone",
+    "phrase": "be booked up",
+    "example": "The theatre/theater is booked up for the season."
+  },
+  {
+    "meaning": "to be involved in a situation, often when you do not want to be",
+    "phrase": "be caught up in sth",
+    "example": "He got caught up in the demonstrations and got arrested."
+  },
+  {
+    "meaning": "to be a long way from other places and people",
+    "phrase": "be cut off",
+    "example": "Many villages have been cut off by the heavy snow."
+  },
+  {
+    "meaning": "to want something very much, especially food or drink",
+    "phrase": "be dying for sth",
+    "example": "I'm dying to hear your news."
+  },
+  {
+    "meaning": "if you ask someone what they are getting at, you are asking them what they mean, usually because they have expressed something indirectly",
+    "phrase": "be getting at sth",
+    "example": "What are you getting at, Andy?"
+  },
+  {
+    "meaning": "to be very worried about something and spend a lot of time thinking about it",
+    "phrase": "be hung up",
+    "example": "Why are you so hung up on getting everything right?"
+  },
+  {
+    "meaning": "if an amount of money or food is left over, it remains when the rest has been used or eaten",
+    "phrase": "be left over (1)",
+    "example": "There was some ham left over from lunch."
+  },
+  {
+    "meaning": "to exist from an earlier time",
+    "phrase": "be left over (2)",
+    "example": "These attitudes are left over from the war."
+  },
+  {
+    "meaning": "if something is littered with a particular type of thing, it has or contains a lot of that thing",
+    "phrase": "be littered with sth",
+    "example": "The whole book is littered with errors."
+  },
+  {
+    "meaning": "to be involved in an illegal or unpleasant activity",
+    "phrase": "be mixed up in sth",
+    "example": "I knew someone who was mixed up in that corruption scandal."
+  },
+  {
+    "meaning": "to have had enough of parties because you have been to so many",
+    "phrase": "be partied out",
+    "example": "If you party everyday, youre gonna get partied Out"
+  },
+  {
+    "meaning": "if you ask what someone is playing at, you ask what they are doing, in a way which shows that you are surprised and angry",
+    "phrase": "be playing at sth",
+    "example": "What on earth were you playing at? - You could have got us all killed!"
+  },
+  {
+    "meaning": "to have very little or not enough of something, especially time or money",
+    "phrase": "be pressed for sth",
+    "example": "I'd love to stop and talk, but I'm pressed for time."
+  },
+  {
+    "meaning": "to be annoyed, often because of something that someone has done or said to you",
+    "phrase": "be put out",
+    "example": "He seemed a bit put out at not having been invited."
+  },
+  {
+    "meaning": "if a sport or other outside activity is rained off, it cannot start or continue because it is raining",
+    "phrase": "be rained off",
+    "example": "Most of today's matches were rained off."
+  },
+  {
+    "meaning": "to be opposed to doing or having something",
+    "phrase": "be set against sth/doing sth",
+    "example": "Everyone was set against going."
+  },
+  {
+    "meaning": "if a person or place is snowed in, there is so much snow that it is impossible to travel anywhere or leave that place",
+    "phrase": "be snowed in",
+    "example": "I was snowed in for a week."
+  },
+  {
+    "meaning": "to have so much work that you have problems dealing with it all",
+    "phrase": "be snowed under",
+    "example": "He's been snowed under with urgent cases."
+  },
+  {
+    "meaning": "if people or things are spread out, they are in different parts of a large area and are not close together",
+    "phrase": "be spread out",
+    "example": "They spread out to search the whole area."
+  },
+  {
+    "meaning": "to be giving all your time and energy to something or someone",
+    "phrase": "be taken up with sth",
+    "example": "She's completely taken up with her wedding plans."
+  },
+  {
+    "meaning": "if people are thrown together in a situation, that situation causes them to meet each other and to get to know each other",
+    "phrase": "be thrown together",
+    "example": "We were thrown together by chance at a conference."
+  },
+  {
+    "meaning": "to be busy so that you are unable to see or speak to anyone else or go anywhere",
+    "phrase": "be tied up",
+    "example": "Mrs Moran is tied up in a meeting at the moment but I'll ask her to call you later."
+  },
+  {
+    "meaning": "tto make someone comfortable in bed by arranging the sheets around them",
+    "phrase": "tuck up",
+    "example": "I tucked the children in and said goodnight."
+  },
+  {
+    "meaning": "to force someone to reduce the price of something",
+    "phrase": "beat down sb/sth or beat sb/sth down",
+    "example": "He wanted £75 for the bike, but I managed to beat him down to £50."
+  },
+  {
+    "meaning": "to hurt someone badly by hitting or kicking them again and again",
+    "phrase": "beat up sb or beat sb up",
+    "example": "They threatened to beat him up if he didn't hand over the money."
+  },
+  {
+    "meaning": "if you ask what became of someone or something, you want to know where they are and what happened to them",
+    "phrase": "become of sb/sth",
+    "example": "Whatever became of that parcel you sent?"
+  },
+  {
+    "meaning": "something that you say angrily to someone in order to them to be quiet",
+    "phrase": "Belt up! (informal, British & Australian)",
+    "example": "Just belt up, will you! I'm trying to concentrate."
+  },
+  {
+    "meaning": "to try extremely hard to do something to help or please someone",
+    "phrase": "bend over backwards to do sth",
+    "example": "She bent over backwards to help him."
+  },
+  {
+    "meaning": "to talk a lot about how excellent someone or something is, sometimes praising them more than is deserved",
+    "phrase": "big up sb/sth",
+    "example": "First impressions are really important, so I'd like it if you could big me up to your boss before I meet her."
+  },
+  {
+    "meaning": "to do something bad to someone because they have done something bad to you",
+    "phrase": "bite back",
+    "example": "Weary of her rival's accusations, the candidate bit back with an aggressive ad campaign."
+  },
+  {
+    "meaning": "to stop yourself from saying something that shows your real feelings or thoughts",
+    "phrase": "bite back sth or bite sth back",
+    "example": "Paul bit back an angry reply."
+  },
+  {
+    "meaning": "if something or someone blends in, they look or seem the same as the things or people around them and so you do not notice them",
+    "phrase": "blend in or blend into sth",
+    "example": "They have adopted local customs and tried to blend in with the community."
+  },
+  {
+    "meaning": "to become or make someone become totally happy and relaxed",
+    "phrase": "bliss (sb) out",
+    "example": "This kind of sunny weather just blisses me out."
+  },
+  {
+    "meaning": "filled with something so that nothing can pass through",
+    "phrase": "block up",
+    "example": "Any holes in the kitchen where the mice are getting through?'—'I've blocked them up."
+  },
+  {
+    "meaning": "If something blows down, or if the wind blows something down, that thing falls to the ground because the wind blows it",
+    "phrase": "blow down (sth) or blow (sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "if a storm blows over, it becomes less strong and then ends",
+    "phrase": "blow over (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if an unpleasant situation [e.g. argument] blows over, it gradually becomes less important and is then forgotten",
+    "phrase": "blow over (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to destroy something or kill someone with a bomb, or to be destroyed or killed with a bomb",
+    "phrase": "blow up (sth/sb) or blow (sb/sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly become very angry",
+    "phrase": "blow up",
+    "example": ""
+  },
+  {
+    "meaning": "if a liquid that is being heated boils over, it flows over the side of the pan",
+    "phrase": "boil over",
+    "example": ""
+  },
+  {
+    "meaning": "if an event, person, or place is booked up, they have no space or time available for someone",
+    "phrase": "booked up",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly decide not to do something because you are afraid",
+    "phrase": "bottle out (British)",
+    "example": ""
+  },
+  {
+    "meaning": "to not allow yourself to show or talk about your feelings, especially feelings of anger and sadness",
+    "phrase": "bottle up sth or bottle sth up",
+    "example": ""
+  },
+  {
+    "meaning": "if an e-mail bounce back, it comes back to you because the address is wrong or there is a computer problem.",
+    "phrase": "bounce back",
+    "example": ""
+  },
+  {
+    "meaning": "to start to do something different from what you usually do, especially in your job",
+    "phrase": "branch out",
+    "example": ""
+  },
+  {
+    "meaning": "to stop being part of a group because you disagree with them or because you do not want to be controlled by them",
+    "phrase": "break away",
+    "example": ""
+  },
+  {
+    "meaning": "if a machine or vehicle breaks down, it stops working",
+    "phrase": "break down (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to be unable to control your feelings and to start to cry",
+    "phrase": "break down (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to become mentally or physically ill because of an unpleasant experience",
+    "phrase": "break down (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to get into a building or car by using force, usually in order to steal something",
+    "phrase": "break in",
+    "example": ""
+  },
+  {
+    "meaning": "to get into a building or car by using force, usually in order to steal something",
+    "phrase": "break into sth",
+    "example": ""
+  },
+  {
+    "meaning": "when someone forces their way into a building or car, usually to steal something",
+    "phrase": "break-in (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to stop doing something",
+    "phrase": "break off (sth) or break (sth) off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if discussions between two groups of people break off, or if someone breaks them off, they end suddenly, before they have been completed",
+    "phrase": "break off (sth) or break (sth) off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly stop speaking",
+    "phrase": "break off",
+    "example": ""
+  },
+  {
+    "meaning": "to end a relationship",
+    "phrase": "break off sth or break sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to end a romantic relationship with someone",
+    "phrase": "break off with sb",
+    "example": ""
+  },
+  {
+    "meaning": "if something dangerous and unpleasant [e.g. war, disease, fire] breaks out, it suddenly starts",
+    "phrase": "break out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to escape from prison",
+    "phrase": "break out (2)",
+    "example": ""
+  },
+  { "meaning": "an escape", "phrase": "breakout (noun)", "example": "" },
+  {
+    "meaning": "to succeed in dealing with a problem or difficult situation",
+    "phrase": "break through sth",
+    "example": ""
+  },
+  {
+    "meaning": "an important discovery or success that helps you achieve or deal with something",
+    "phrase": "breakthrough (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if a marriage breaks up, or if two people who have a romantic relationship break up, their marriage or relationship ends",
+    "phrase": "break up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "the act or event of breaking up",
+    "phrase": "break-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if schools or universities, or the people who study or work in them break up, classes end and the holidays start",
+    "phrase": "break up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone who is talking on a mobile phone is breaking up, their voice cannot be heard",
+    "phrase": "break up (3)",
+    "example": ""
+  },
+  {
+    "meaning": "if the weather brightens up, the sky becomes lighter and the sun starts to shine",
+    "phrase": "brighten up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly look or feel happier",
+    "phrase": "brighten up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to make somewhere more attractive, often by adding colours",
+    "phrase": "brighten up sth or brighten sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to make something happen",
+    "phrase": "bring about sth or bring sth about",
+    "example": ""
+  },
+  {
+    "meaning": "to bring someone or something somewhere",
+    "phrase": "bring along sb/sth or bring sb/sth along",
+    "example": ""
+  },
+  {
+    "meaning": "to bring someone or something somewhere, especially to someone's house",
+    "phrase": "bring around/round sb/sth or bring sb/sth around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to persuade someone to agree with you or to do what you want them to do",
+    "phrase": "bring sb around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone remember or think about something form the past",
+    "phrase": "bring back sth or bring sth back",
+    "example": ""
+  },
+  {
+    "meaning": "to cause people in positions of power [e.g. government, president] to lose their position",
+    "phrase": "bring down sb or bring sb down",
+    "example": ""
+  },
+  {
+    "meaning": "to change the date or time of an event so that it happens earlier than planned",
+    "phrase": "bring forward sth or bring sth forward",
+    "example": ""
+  },
+  {
+    "meaning": "if a government or organization brings in something new [e.g. law, rule], they make it exist for the first time",
+    "phrase": "bring in sth or bring sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to succeed in doing something difficult",
+    "phrase": "bring off sth or bring sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to look after a child and educate them until they are old enough to look after themselves",
+    "phrase": "bring up sb or bring sb up",
+    "example": ""
+  },
+  {
+    "meaning": "to start to talk about a particular subject",
+    "phrase": "bring up sth or bring sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to refuse to listen to what someone says, or to refuse to think about something seriously",
+    "phrase": "brush aside sb/sth or brush sb/sth aside",
+    "example": ""
+  },
+  {
+    "meaning": "to practise and improve your skills or your knowledge of something that you learned in the past but have partly forgotten",
+    "phrase": "brush up (on) sth",
+    "example": ""
+  },
+  {
+    "meaning": "to be very excited and enthusiastic",
+    "phrase": "bubble over",
+    "example": ""
+  },
+  {
+    "meaning": "to use a success or achievement as a base from which to achieve more success",
+    "phrase": "build on sth",
+    "example": ""
+  },
+  {
+    "meaning": "to meet someone you know when you had not planned to meet them",
+    "phrase": "bump into sb",
+    "example": ""
+  },
+  {
+    "meaning": "to use or get rid of energy or something which provides energy [e.g. calories, fat], by doing a lot of physical exercise",
+    "phrase": "burn off sth or burn sth off",
+    "example": ""
+  },
+  {
+    "meaning": "illness or extreme tiredness because you have been working too hard",
+    "phrase": "burnout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly start to make a noise, especially to start crying, laughing or singing",
+    "phrase": "burst into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to interrupt a conversation or discussion or someone who is talking",
+    "phrase": "butt in",
+    "example": ""
+  },
+  {
+    "meaning": "to completely believe in a set of ideas",
+    "phrase": "buy into sth",
+    "example": ""
+  },
+  { "meaning": "from the past", "phrase": "bygone (adjective)", "example": "" },
+  {
+    "meaning": "a person who sees something happening but who is not involved",
+    "phrase": "bystander (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone several people, often in order to find out information",
+    "phrase": "call around (American)",
+    "example": ""
+  },
+  {
+    "meaning": "to go back to a place in order to visit someone or collect something that you were unable to visit or collect earlier",
+    "phrase": "call back",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone someone for the second time or to telephone someone who rang you earlier",
+    "phrase": "call back (sb) or call (sb) back",
+    "example": ""
+  },
+  {
+    "meaning": "to need or deserve a particular action or quality",
+    "phrase": "call for sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to say that you think a particular thing should be done, usually in order to change or improve a situation",
+    "phrase": "call for sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to visit a place in order to collect someone",
+    "phrase": "call for sb",
+    "example": ""
+  },
+  {
+    "meaning": "to visit a place or person for a short time, usually while you are going somewhere else",
+    "phrase": "call in (British & American)",
+    "example": ""
+  },
+  {
+    "meaning": "to decide that a planned event activity will not happen, especially because it is no longer possible or useful",
+    "phrase": "call off sth or call sth off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to decide to stop an activity that has already started",
+    "phrase": "call off sth or call sth off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to visit someone who lives near to you for a short time",
+    "phrase": "call round",
+    "example": ""
+  },
+  {
+    "meaning": "to stop feeling upset, angry, or excited, or to make someone stop feeling this way",
+    "phrase": "calm down (sb) or calm (sb) down (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if a situation calms down, or if you calm it down, it becomes more peaceful",
+    "phrase": "calm down (sb) or calm (sb) down (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone can't get over something, they are very surprised or shocked that something has happened or that something is true",
+    "phrase": "can't/couldn't get over sth",
+    "example": ""
+  },
+  {
+    "meaning": "to look after someone who is too young, too old, or too ill to look after themselves",
+    "phrase": "care for sb",
+    "example": ""
+  },
+  {
+    "meaning": "to become so excited about something that you do not control what you say or do and you forget about everything else",
+    "phrase": "carried away",
+    "example": ""
+  },
+  {
+    "meaning": "to continue doing something",
+    "phrase": "carry on",
+    "example": ""
+  },
+  {
+    "meaning": "to do or complete something, especially something important",
+    "phrase": "carry out sth or carry sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if you carry out something that you said you would do, or that you have been told to do [e.g. instructions, order, threat], you do it",
+    "phrase": "carry out sth or carry sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "money from your bank account that you can get from a hop when you buy goods with a debit card",
+    "phrase": "cashback (noun)",
+    "example": ""
+  },
+  { "meaning": "to become popular", "phrase": "catch on", "example": "" },
+  {
+    "meaning": "to reach someone in front of you by going faster than them",
+    "phrase": "catch up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to reach the same quality or standard as someone or something else",
+    "phrase": "catch up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to do something you did not have time to do earlier",
+    "phrase": "catch up on/with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to meet someone you know, after not seeing them for a period of time",
+    "phrase": "catch up with sb",
+    "example": ""
+  },
+  {
+    "meaning": "to be involved in a situation, often when you do not want to be",
+    "phrase": "caught up in sth",
+    "example": ""
+  },
+  {
+    "meaning": "a complete change from one system or method to another",
+    "phrase": "changeover (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if you charge up a piece of electrical equipment, you put electricity into it",
+    "phrase": "charge up sth or charge sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone to do something that they said they would do but that they have not done yet",
+    "phrase": "chase up sb or chase sb up",
+    "example": ""
+  },
+  {
+    "meaning": "to try to get something that belongs to you or that you need, or to try to discover more information about something",
+    "phrase": "chase up sth or chase sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to talk to someone in a way that shows them that you are sexually attracted to them and to try to make them attracted to you",
+    "phrase": "chat up sb or chat sb up (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "a way of talking which suggests you are sexually attracted to someone and want them to be attracted to you",
+    "phrase": "chat-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to show your ticket at an airport so that you can be told where you are sitting and so that your bags can be put on the aircraft",
+    "phrase": "check in",
+    "example": ""
+  },
+  {
+    "meaning": "the place at an airport where you go to say that you have arrived for your flight",
+    "phrase": "check-in (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to arrive at a hotel and say who you are so that you can be given a key for your room",
+    "phrase": "check in or check into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a hotel after paying and giving back the key of your room",
+    "phrase": "check out",
+    "example": ""
+  },
+  {
+    "meaning": "the place where you pay for things in a big shop",
+    "phrase": "checkout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to examine something or someone to make sure that they are correct, healthy or working properly",
+    "phrase": "check over sth/sb or check sth/sb over",
+    "example": ""
+  },
+  {
+    "meaning": "to discover what someone is doing in order to be certain that they are doing what they should be doing or what they said they would do",
+    "phrase": "check up on sb",
+    "example": ""
+  },
+  {
+    "meaning": "if someone cheers up, or if someone or something cheers them up, they start to feel happier",
+    "phrase": "cheer up (sb) or cheer (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to decide not to do something you had planned to do because you are too frightened",
+    "phrase": "chicken out",
+    "example": ""
+  },
+  {
+    "meaning": "to relax completely, or not allow things to upset you",
+    "phrase": "chill out",
+    "example": ""
+  },
+  {
+    "meaning": "to cut through a tree or a group of trees so that they fall to the ground",
+    "phrase": "chop down sth or chop sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to cut something, especially food, into small pieces",
+    "phrase": "chop up sth or chop sth up",
+    "example": ""
+  },
+  {
+    "meaning": "if someone in authority clamps down, they do something in order to stop or limit a particular activity",
+    "phrase": "clamp down",
+    "example": ""
+  },
+  {
+    "meaning": "a sudden action taken by a government or people in authority to stop or limit a particular activity",
+    "phrase": "clampdown (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place quickly",
+    "phrase": "clear off",
+    "example": ""
+  },
+  {
+    "meaning": "to make a place tidy and clean, especially by putting things where they usually belong",
+    "phrase": "clear out sth or clear sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to make a place tidy and clean, especially by putting things where they usually belong",
+    "phrase": "clear up (sth) or clear (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "if the weather clears up, it improves",
+    "phrase": "clear up",
+    "example": ""
+  },
+  {
+    "meaning": "to record the time you arrive at work, usually on a machine with a clock",
+    "phrase": "clock in/on",
+    "example": ""
+  },
+  {
+    "meaning": "to record the time you leave work, usually on a machine with a clock",
+    "phrase": "clock off/out",
+    "example": ""
+  },
+  {
+    "meaning": "if something [e.g. road, pipe] clogs up, or if something clogs it up, it becomes blocked and nothing in it is able to move",
+    "phrase": "clog up (sth) or clog (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "if a business or organization closes down, or if someone or something closes it down, it stops doing business",
+    "phrase": "close down (sth) or close (sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "if the sky clouds over, it becomes covered with clouds",
+    "phrase": "cloud over",
+    "example": ""
+  },
+  {
+    "meaning": "if a group of people club together, they share the cost of something between them",
+    "phrase": "club together",
+    "example": ""
+  },
+  {
+    "meaning": "when you say how or why something comes about, especially something which is not planned, you explain how or why it happens",
+    "phrase": "come about",
+    "example": ""
+  },
+  {
+    "meaning": "to discover something by chance, or to meet someone by chance",
+    "phrase": "come across sth/sb",
+    "example": ""
+  },
+  { "meaning": "to arrive at a place", "phrase": "come along", "example": "" },
+  {
+    "meaning": "if something comes apart, it separates into pieces",
+    "phrase": "come apart",
+    "example": ""
+  },
+  {
+    "meaning": "to visit someone at their house",
+    "phrase": "come around/round (1)",
+    "example": ""
+  },
+  {
+    "meaning": "become conscious again",
+    "phrase": "come around/round (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to start talking about a particular subject again",
+    "phrase": "come back to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a situation or decision comes down to something, that is the thing that will influence it most",
+    "phrase": "come down to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to become ill, usually with a disease that is not very serious",
+    "phrase": "come down with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to happen successfully or as planned",
+    "phrase": "come off",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say in order to tell someone that you do not believe them or that you disagree with them",
+    "phrase": "come off it!",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say to someone in order to encourage them to do something you want them to do, especially to hurry up, to try harder, or to tell you something",
+    "phrase": "come on!",
+    "example": ""
+  },
+  {
+    "meaning": "if dirt or colour comes out of something, especially clothing or cloth, it disappears or becomes less strong after being in water",
+    "phrase": "come out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone who has been in prison or hospital comes, they leave",
+    "phrase": "come out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if something that is published [e.g. book, newspaper], a musical recording [e.g. single, album], or a film comes out, it becomes available for people to buy or see it",
+    "phrase": "come out (3)",
+    "example": ""
+  },
+  {
+    "meaning": "if the truth about something comes out, it becomes known publicly after it has been kept secret",
+    "phrase": "come out (4)",
+    "example": ""
+  },
+  {
+    "meaning": "if results or information come out, they are given to people",
+    "phrase": "come out (5)",
+    "example": ""
+  },
+  {
+    "meaning": "to be a particular total when amounts or numbers are added together",
+    "phrase": "come to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if you come to a decision about something, or you decide what you think about something",
+    "phrase": "come to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a piece of information comes under a particular part of a list, book, or collection of things, you can find it in that part",
+    "phrase": "come under sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a subject [e.g. issue, name] comes up in a conversation, it is discussed or mentioned",
+    "phrase": "come up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if a problem or difficult situation comes up, it happens when you do not expect it",
+    "phrase": "come up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if a question or a subject comes up in an exam, that question is asked or questions about that subject are asked in the exam",
+    "phrase": "come up (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to have to deal with a difficult situation or someone who disagrees with you or tries to stop you doing what you want to do",
+    "phrase": "come up against sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to think of or not suggest a plan or idea, a solution to a problem, or an answer to a question",
+    "phrase": "come up with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to become cooler, or to make someone or something become cooler",
+    "phrase": "cool down (sb/sth) or cool (sb/sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "to become calmer, or to make someone or something become calmer",
+    "phrase": "cool down/off (sb/sth) or cool (sb/sth) down/off",
+    "example": ""
+  },
+  {
+    "meaning": "to need or want something or someone",
+    "phrase": "could do with sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "something you say when something is annoying you or causing problems for you, because your situation at that time makes it difficult for you to deal with it",
+    "phrase": "I could do without sth",
+    "example": ""
+  },
+  {
+    "meaning": "if you say that you couldn't ask for someone or something better, you mean that that person or thing is the best of their kind",
+    "phrase": "couldn't ask for sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to have confidence in someone because you know that they will do what you want",
+    "phrase": "count on/upon sb",
+    "example": ""
+  },
+  {
+    "meaning": "an attempt to stop people discovering the truth about something bad",
+    "phrase": "cover-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone in authority [e.g. police, government] cracks down, they start treating people much more strictly in order to try to stop them from doing things they should not do",
+    "phrase": "crack down",
+    "example": ""
+  },
+  {
+    "meaning": "(noun)\nwhen bad or illegal behavior is dealt with in a very severe way, in order to stop it happening",
+    "phrase": "crackdown (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if a lot of people or animals cram in or cram into a place, they all go into it even though it is too small for all of them and becomes very full",
+    "phrase": "cram in/into",
+    "example": ""
+  },
+  {
+    "meaning": "if a problem crops up, it suddenly happens, often when it is not expected",
+    "phrase": "crop up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if something, especially a word, crops up, it appears, often in something that you read, hear, or see",
+    "phrase": "crop up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to draw a line through something that you have written, usually because it is wrong",
+    "phrase": "cross out sth or cross sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to reduce the amount of money that is being spent on something",
+    "phrase": "cut back (sth) or cut (sth) back",
+    "example": ""
+  },
+  {
+    "meaning": "a reduction in the amount of money that is being spent on something",
+    "phrase": "cutback (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if you cut down a tree or a bush, you make it fall to the ground by cutting it near the bottom",
+    "phrase": "cut down sth or cut sth down (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to eat or drink less of a particular thing, usually in order to improve your health",
+    "phrase": "cut down",
+    "example": ""
+  },
+  {
+    "meaning": "to reduce the amount or number of something",
+    "phrase": "cut down sth or cut sth down (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to stop people from continuing a telephone conversation by breaking the telephone connection",
+    "phrase": "cut off sb or cut sb off",
+    "example": ""
+  },
+  {
+    "meaning": "to prevent people from reaching a place or leaving a place",
+    "phrase": "cut off sb/sth or cut sb/sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to be a long way from other places and people",
+    "phrase": "cut off",
+    "example": ""
+  },
+  {
+    "meaning": "to remove something by cutting, especially something made of paper or cloth",
+    "phrase": "cut out sth or cut sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to remove part of a piece of writing",
+    "phrase": "cut out sth or cut sth out",
+    "example": ""
+  },
+  {
+    "meaning": "If an engine, machine, or piece of equipment cuts out, it suddenly stops working",
+    "phrase": "cut out",
+    "example": ""
+  },
+  {
+    "meaning": "to have existed since a particular time",
+    "phrase": "date back",
+    "example": ""
+  },
+  {
+    "meaning": "if a fact dawns on you, you realize or understand something after a period of time when you did not realize or understand it",
+    "phrase": "dawn on/upon sb",
+    "example": ""
+  },
+  {
+    "meaning": "to take action in order to achieve something, or in order to solve a problem",
+    "phrase": "deal with sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if something [e.g. book, film, article] deals with a particular subject or idea, it is about that subject or idea",
+    "phrase": "deal with sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to trust someone or something and know that they will help you or do what you expect them to do",
+    "phrase": "depend on/upon sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to use a telephone in order to call someone in another building",
+    "phrase": "dial out",
+    "example": ""
+  },
+  {
+    "meaning": "to read small parts of a book or magazine",
+    "phrase": "dip into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to separate something into smaller parts or groups, or to form smaller parts or groups",
+    "phrase": "divide up (sth) or divide (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to get rid of something, or to stop using something",
+    "phrase": "do away with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to fasten something",
+    "phrase": "do up sth or do sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to manage without something or someone",
+    "phrase": "do without (sth/sb)",
+    "example": ""
+  },
+  {
+    "meaning": "the sudden failure of a person or organization, or something that cause this",
+    "phrase": "downfall (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "a sudden, heavy fall of rain",
+    "phrase": "downpour (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to gradually start to sleep, especially during the day",
+    "phrase": "doze off",
+    "example": ""
+  },
+  {
+    "meaning": "if an unpleasant or difficult situation or process drags on, it continues for too long",
+    "phrase": "drag on",
+    "example": ""
+  },
+  {
+    "meaning": "to use information or your knowledge or experience of something to help you do something",
+    "phrase": "draw on/upon sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a vehicle, or someone in a vehicle, draws up, they arrive somewhere and stop",
+    "phrase": "draw up",
+    "example": ""
+  },
+  {
+    "meaning": "to put on formal or special occasion, or to put them on someone else",
+    "phrase": "dress up (sb) or dress (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "used about an occasion when you wear less formal clothes then normal",
+    "phrase": "dress-down (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "if two friends drift apart, they gradually become less friendly and their relationship ends",
+    "phrase": "drift apart",
+    "example": ""
+  },
+  {
+    "meaning": "to completely finish your drink",
+    "phrase": "drink up (sth) or drink (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to make a short visit to someone in their home, usually without arranging it before",
+    "phrase": "drop around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to deliver something, usually something small",
+    "phrase": "drop around/round sth or drop sth around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to make a short visit to someone in their home, usually without arranging it before",
+    "phrase": "drop in",
+    "example": ""
+  },
+  {
+    "meaning": "to take someone to a place that they want to go to, or to deliver something to a place, usually in a car, often when you are going somewhere else",
+    "phrase": "drop off sb/sth or drop sb/sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to take someone to a place that they want to go to, or to deliver something to a place, usually in a car, often when you are going somewhere else",
+    "phrase": "drop off sth or drop sth off",
+    "example": ""
+  },
+  {
+    "meaning": "if a student drops out, they stop going to classes before they have finished their course",
+    "phrase": "drop out",
+    "example": ""
+  },
+  {
+    "meaning": "a person who leaves school or college before finishing a course",
+    "phrase": "dropout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if a supply of something dries up, it ends",
+    "phrase": "dry up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to stop speaking when you are acting or making a speech, especially because you suddenly forget what to say next",
+    "phrase": "dry up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to want something very much, especially food or drink",
+    "phrase": "dying for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to eat a meal in a restaurant, not at home",
+    "phrase": "eat out",
+    "example": ""
+  },
+  {
+    "meaning": "to eat all the food you have been given",
+    "phrase": "eat up sth or eat sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to send a reply to someone by e-mail, usually a reply to an e-mail someone has sent you",
+    "phrase": "e-mail back (sb) or e-mail (sb) back",
+    "example": ""
+  },
+  {
+    "meaning": "to finally do something, especially without having planned it",
+    "phrase": "end up",
+    "example": ""
+  },
+  {
+    "meaning": "to finally do something especially without having planned to",
+    "phrase": "end up doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to start to become involved in something, especially a discussion",
+    "phrase": "enter into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to accept that a difficult or unpleasant situation exists",
+    "phrase": "face up to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if something falls apart, it breaks or breaks into piece because it is old or weak",
+    "phrase": "fall apart",
+    "example": ""
+  },
+  {
+    "meaning": "to fail to develop at the same rate as something else, or to fail to achieve a standard reached by other people",
+    "phrase": "fall behind (sb/sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to fall to the ground",
+    "phrase": "fall down (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to fail because of not being satisfactory for a particular purpose",
+    "phrase": "fall down (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to be attracted to someone or something",
+    "phrase": "fall for sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to be tricked into believing something that is not true",
+    "phrase": "fall for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to argue with someone and stop being friendly with them",
+    "phrase": "fall out",
+    "example": ""
+  },
+  { "meaning": "an argument", "phrase": "falling-out (noun)", "example": "" },
+  {
+    "meaning": "if someone falls over, they fall to the ground",
+    "phrase": "fall over",
+    "example": ""
+  },
+  {
+    "meaning": "if a plan or agreement falls through, it fails to happen",
+    "phrase": "fall through",
+    "example": ""
+  },
+  {
+    "meaning": "to feel sorry for someone because they are very unhappy or in a difficult situation",
+    "phrase": "feel for sb",
+    "example": ""
+  },
+  {
+    "meaning": "to defend yourself when someone or something attacks you or causes problem for you",
+    "phrase": "fight back",
+    "example": ""
+  },
+  {
+    "meaning": "to try hard to get rid of something unpleasant or unwanted, especially an illness or bad emotions",
+    "phrase": "fight off sth or fight sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to understand something or someone, or to find the answer to something by thinking carefully",
+    "phrase": "figure out sth or figure sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to write the necessary information on an official document [e.g. form, questionnaire]",
+    "phrase": "fill in/out sth or fill sb in/out",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone about the things that have happened while they have not been there, or to give someone the information they need in order to do something",
+    "phrase": "fill in sb or fill sb in",
+    "example": ""
+  },
+  {
+    "meaning": "to become full, or to make something become full",
+    "phrase": "fill up (sth) or fill (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time",
+    "phrase": "find out (sth) or find (sth) out",
+    "example": ""
+  },
+  {
+    "meaning": "to complete the last part of something that you are doing",
+    "phrase": "finish off sth or finish sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to end a romantic relationship with someone",
+    "phrase": "finish with sb",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say in order to tell someone that you are ready for them to start asking you questions, or to start speaking",
+    "phrase": "Fire away!",
+    "example": ""
+  },
+  {
+    "meaning": "to feel happy in a group of people because you are similar to them",
+    "phrase": "fit in",
+    "example": ""
+  },
+  {
+    "meaning": "to find time to do something or see someone",
+    "phrase": "fit in sb/sth or fit sb/sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to provide or arrange something for someone",
+    "phrase": "fix up sb/sth or fix sb/sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to gradually end or disappear, especially in a disappointing way",
+    "phrase": "fizzle out",
+    "example": ""
+  },
+  {
+    "meaning": "if something [e.g. violence, argument, anger] flares up, it suddenly happens and becomes very serious",
+    "phrase": "flare up",
+    "example": ""
+  },
+  {
+    "meaning": "to look briefly at the pages of something [e.g. book, magazine]",
+    "phrase": "flick/flip through sth",
+    "example": ""
+  },
+  {
+    "meaning": "to force someone to leave their home because of floods",
+    "phrase": "flood out sb or flood sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to do something in order to make the effect of an earlier action or thing stronger or more certain",
+    "phrase": "follow up sth or follow sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time having fun or behaving in a silly way",
+    "phrase": "fool around",
+    "example": ""
+  },
+  {
+    "meaning": "to pay or give money for something, especially when you do not want to",
+    "phrase": "fork out sth or fork sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to quickly wash yourself so that you feel clean",
+    "phrase": "freshen up",
+    "example": ""
+  },
+  {
+    "meaning": "to successfully communicate an idea to other people",
+    "phrase": "get across sth or get sth across",
+    "example": ""
+  },
+  {
+    "meaning": "to be successful in the work that you do",
+    "phrase": "get ahead",
+    "example": ""
+  },
+  {
+    "meaning": "if two or more get along, they like each other and are friendly to each other",
+    "phrase": "get along",
+    "example": ""
+  },
+  {
+    "meaning": "to find a way of dealing with or avoiding a problem",
+    "phrase": "get around/round sth",
+    "example": ""
+  },
+  {
+    "meaning": "to do something that you have intended to do for a long time",
+    "phrase": "get around/round to sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place or person, often when the situation makes it difficult for you to do this",
+    "phrase": "get away (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to go somewhere to have a holiday, especially because you need to rest",
+    "phrase": "get away (2)",
+    "example": ""
+  },
+  {
+    "meaning": "used to escape something or someone",
+    "phrase": "getaway (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to succeed in not being criticised or punished for something wrong that you have done",
+    "phrase": "get away with sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to do something successfully even though it is not the best way of doing it",
+    "phrase": "get away with sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "if you get something back, something that you had before is given to you again",
+    "phrase": "get sth back or get back sth",
+    "example": ""
+  },
+  {
+    "meaning": "if you get back to someone, you talk to them, usually on the telephone, in order to give them some information that they have asked you for, or because you were not able to speak to them before",
+    "phrase": "get back to sb",
+    "example": ""
+  },
+  {
+    "meaning": "if you get behind with work or with payments, you have not done as much work or paid as much money as you should by a particular time",
+    "phrase": "get behind",
+    "example": ""
+  },
+  {
+    "meaning": "to have just enough money to pay for the things that you need, but nothing more",
+    "phrase": "get by",
+    "example": ""
+  },
+  {
+    "meaning": "to become so excited about something that you do not control what you say or do and you forget about everything else",
+    "phrase": "get carried away",
+    "example": ""
+  },
+  {
+    "meaning": "to start doing something seriously and with a lot of your attention and effort",
+    "phrase": "get down to sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a train, plane, or other vehicle gets in at a particular time, that is when it arrives",
+    "phrase": "get in",
+    "example": ""
+  },
+  {
+    "meaning": "to criticise someone",
+    "phrase": "get into sb (Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to become involved in an illegal or bad activity",
+    "phrase": "get mixed up in sth",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a bus, train, aircraft, or boat",
+    "phrase": "get off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to go onto a bus, train, aircraft, or boat",
+    "phrase": "get on (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "if two or more people get on, they like each other and are friendly to each other",
+    "phrase": "get on (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to continue doing something, especially work",
+    "phrase": "get on (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to avoid doing something that you should go, often by giving an excuse",
+    "phrase": "get on to/onto sth",
+    "example": ""
+  },
+  {
+    "meaning": "to begin to feel better after an experience that has made you unhappy",
+    "phrase": "get over sth",
+    "example": ""
+  },
+  {
+    "meaning": "to do and complete something difficult or unpleasant that must be done",
+    "phrase": "get sth over with",
+    "example": ""
+  },
+  {
+    "meaning": "to manage to talk to someone on the telephone",
+    "phrase": "get through",
+    "example": ""
+  },
+  {
+    "meaning": "to succeed in making someone understand or believe something",
+    "phrase": "get through to sb",
+    "example": ""
+  },
+  {
+    "meaning": "if two or more people get together, or if someone gets two or more people together, they meet in order to do something or spend time together",
+    "phrase": "get together (sb) or get (sb) together",
+    "example": ""
+  },
+  {
+    "meaning": "to wake up and get out of bed, or to make someone do this",
+    "phrase": "get (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "if you ask someone what they are getting at, you are asking them what they mean, usually because they have expressed something indirectly",
+    "phrase": "getting at sth",
+    "example": ""
+  },
+  {
+    "meaning": "to give something to someone without asking for payment",
+    "phrase": "give away sth or give sth away",
+    "example": ""
+  },
+  {
+    "meaning": "to finally agree to what someone wants after a period when you refuse to agree",
+    "phrase": "give in (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to accept that you have been defeated and agree to stop competing or fighting",
+    "phrase": "give in (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to give a piece of written work or a document to someone for them to read, judge, or deal with",
+    "phrase": "give in sth or give sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to give something to a large number of people",
+    "phrase": "give out sth or give sth out",
+    "example": ""
+  },
+  {
+    "meaning": "if you give up a habit [e.g. smoking, drinking] or give up something unhealthy [e.g. cigarettes, alcohol], you stop doing it or having it",
+    "phrase": "give up (sth) or give (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to stop doing a regular activity or a job",
+    "phrase": "give up sth or give sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to stop doing an activity or piece of work before you have completed it, usually because it is too difficult",
+    "phrase": "give up (sth/doing sth) or give (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to stop trying to think of the answer to a joke or question",
+    "phrase": "give up",
+    "example": ""
+  },
+  {
+    "meaning": "to start do something or deal with something",
+    "phrase": "go about sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "if someone goes about doing something for a long time, they spend their time behaving badly or doing something that is unpleasant for other people",
+    "phrase": "go about doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to do the opposite of what someone has asked or advised you to do",
+    "phrase": "go against sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to start to do something",
+    "phrase": "go ahead",
+    "example": ""
+  },
+  {
+    "meaning": "permission for something to start",
+    "phrase": "go-ahead (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to support an idea, or to agree with someone's opinion",
+    "phrase": "go along with sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "if schools or students go back, the schools are open and the students start going to lessons again after the holidays",
+    "phrase": "go back",
+    "example": ""
+  },
+  {
+    "meaning": "if people go back a number of years, they have been friends for that many years or since that time",
+    "phrase": "go back sth",
+    "example": ""
+  },
+  {
+    "meaning": "to not do something that you promised or said you would do",
+    "phrase": "go back on sth",
+    "example": ""
+  },
+  { "meaning": "if time goes by, it passes", "phrase": "go by", "example": "" },
+  { "meaning": "to become lower in level", "phrase": "go down", "example": "" },
+  {
+    "meaning": "to become ill, usually with a disease that is not very serious",
+    "phrase": "go down with sth (British)",
+    "example": ""
+  },
+  {
+    "meaning": "to choose something",
+    "phrase": "go for sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to try to get or achieve something",
+    "phrase": "go for sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to like a particular type of thing or person",
+    "phrase": "go for sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to win one stage of a competition and compete in another stage",
+    "phrase": "go forward",
+    "example": ""
+  },
+  {
+    "meaning": "to compete in a competition, or to do an exam",
+    "phrase": "go in for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to describe, discuss, or examine something in a detailed way",
+    "phrase": "go into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place and go somewhere else",
+    "phrase": "go off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if food or drink goes off, it is not good to eat or drink any more because it is too old",
+    "phrase": "go off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if a warning device [e.g. alarm] goes off, it suddenly makes a loud noise",
+    "phrase": "go off (3)",
+    "example": ""
+  },
+  {
+    "meaning": "if a bomb or gun goes off, it explodes or fires",
+    "phrase": "go off (4)",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to exist or happen",
+    "phrase": "go on (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to continue doing something",
+    "phrase": "go on (2)",
+    "example": ""
+  },
+  { "meaning": "to happen", "phrase": "go on (3)", "example": "" },
+  {
+    "meaning": "strange or amusing events",
+    "phrase": "goings-on (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to talk in an annoying way about something for a long time",
+    "phrase": "go to one's head",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say to encourage someone to do something",
+    "phrase": "Go on!",
+    "example": ""
+  },
+  {
+    "meaning": "if a light goes out, it stops giving lights",
+    "phrase": "go out",
+    "example": ""
+  },
+  {
+    "meaning": "to lose when you are playing in a sports competition, so that you must stop playing in the competition",
+    "phrase": "go out (British)",
+    "example": ""
+  },
+  {
+    "meaning": "to have a romantic relationship with someone",
+    "phrase": "go out with sb",
+    "example": ""
+  },
+  {
+    "meaning": "to talk or think about something in order to explain it or make sure that it is correct",
+    "phrase": "go over sth",
+    "example": ""
+  },
+  {
+    "meaning": "to experience an unpleasant or difficult situation or event",
+    "phrase": "go through sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to carefully examine the contents of something or a collection of things in order to find something",
+    "phrase": "go through sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if two types of thing or people go together, they are usually found with each other",
+    "phrase": "go together (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if two pieces of clothing or two types of food go together, they look or taste good when you wear or eat them at the same time",
+    "phrase": "go together (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if a company or business goes under, it fails financially",
+    "phrase": "go under",
+    "example": ""
+  },
+  {
+    "meaning": "if an amount, rate, or standard goes up, it rises",
+    "phrase": "go up",
+    "example": ""
+  },
+  {
+    "meaning": "if one thing goes with another, they suit each other or they look or taste good together",
+    "phrase": "go with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to not have something which you usually have",
+    "phrase": "go without (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to avoid doing any work",
+    "phrase": "goof off (American)",
+    "example": ""
+  },
+  {
+    "meaning": "if people who are good friends grow apart, they gradually become less friendly, often because they do not have the same interests and opinions any more",
+    "phrase": "grow apart",
+    "example": ""
+  },
+  {
+    "meaning": "if something or someone grows on you, you like them more and more, although you did not like them at first",
+    "phrase": "grow on sb",
+    "example": ""
+  },
+  {
+    "meaning": "to gradually change from being a child to being an adult",
+    "phrase": "grow up",
+    "example": ""
+  },
+  {
+    "meaning": "to get into someone else's computer system without permission in order to look at information or do something illegal",
+    "phrase": "hack into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to give or teach something to someone who will be alive after you have died",
+    "phrase": "hand down sth or hand sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to give a piece of written work [e.g. essay] to a teach",
+    "phrase": "hand in sth or hand sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to give something to each person in a group of people",
+    "phrase": "hand out sth or hand sth out",
+    "example": ""
+  },
+  {
+    "meaning": "a piece of paper that is given to people who go to a talk or class and which has information on it about the subject dealt with in the talk or class",
+    "phrase": "handout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to give something to someone else",
+    "phrase": "hand over sth or hand sth over",
+    "example": ""
+  },
+  {
+    "meaning": "to give someone else responsibility for or control of something or someone",
+    "phrase": "hand over (sth/sb) or hand (sth/sb) over",
+    "example": ""
+  },
+  {
+    "meaning": "to offer something, especially food or drink to each person in a group of people",
+    "phrase": "hand round sth or hand sth round",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time somewhere, usually without doing very much",
+    "phrase": "hang about/around/round (swh)",
+    "example": ""
+  },
+  {
+    "meaning": "to wait, especially for a short time",
+    "phrase": "hang on",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say when you are confused or surprised by something and you need to think",
+    "phrase": "Hang on!",
+    "example": ""
+  },
+  {
+    "meaning": "to spend a lot of time in a particular place, or to spend a lot time with someone",
+    "phrase": "hang out",
+    "example": ""
+  },
+  {
+    "meaning": "to end a telephone conversation, often suddenly, by putting the part of the telephone that you speak into back into its usual position",
+    "phrase": "hang up",
+    "example": ""
+  },
+  {
+    "meaning": "to hand something, especially clothes, on a hook",
+    "phrase": "hang up sth or hang sth up",
+    "example": ""
+  },
+  {
+    "meaning": "a feeling of embarrassment or fear about something, often when it is not necessary to feel that way",
+    "phrase": "hang-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to talk to someone about something that they have said or done that has made you angry in order to improve the situation",
+    "phrase": "have it out with sb",
+    "example": ""
+  },
+  {
+    "meaning": "if you have someone around, they come to your house for a social visit",
+    "phrase": "have sb around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to persuade someone that something is true when it is not, usually as a joke",
+    "phrase": "have sb on",
+    "example": ""
+  },
+  {
+    "meaning": "to have an arrangement to do something",
+    "phrase": "have sth on",
+    "example": ""
+  },
+  {
+    "meaning": "if you have someone over, they come to your house to visit you",
+    "phrase": "have sb over",
+    "example": ""
+  },
+  {
+    "meaning": "to start a journey or leave a place",
+    "phrase": "head off",
+    "example": ""
+  },
+  {
+    "meaning": "to make food hot so that it can be eaten",
+    "phrase": "heat up sth or heat sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to become warm or hot, or to make something warmer or hotter",
+    "phrase": "heat up (sth) or heat (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to help someone, especially by giving them money or by doing work for them",
+    "phrase": "help out (sb) or help (sb) out",
+    "example": ""
+  },
+  {
+    "meaning": "to help someone remove a piece of outer clothing [e.g. coat]",
+    "phrase": "help sb off with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to help someone to put on a piece of clothing",
+    "phrase": "help sb on with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to go go a place where other people will not find you",
+    "phrase": "hide away",
+    "example": ""
+  },
+  {
+    "meaning": "a place where someone goes to be alone",
+    "phrase": "hideaway (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to allow someone to use something for a short period of time after they have paid you money",
+    "phrase": "hire out sth or hire sth out (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to criticise or attack someone who has criticised or attacked you",
+    "phrase": "hit back",
+    "example": ""
+  },
+  {
+    "meaning": "if two or more people hit it off, they like each other and become friendly immediately",
+    "phrase": "hit it off",
+    "example": ""
+  },
+  {
+    "meaning": "to like or respect someone less because they have something wrong or behaved badly",
+    "phrase": "hold sth against sb",
+    "example": ""
+  },
+  {
+    "meaning": "to delay something or doing something",
+    "phrase": "hold off (sth/doing sth)",
+    "example": ""
+  },
+  { "meaning": "to wait for a short time", "phrase": "hold on", "example": "" },
+  {
+    "meaning": "something you say to show that you are surprised or confused about something and that you need time to think about it for a short time",
+    "phrase": "Hold on!",
+    "example": ""
+  },
+  {
+    "meaning": "to delay something or someone",
+    "phrase": "hold up sth/sb or hold sth/sb up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to steal money from a building [e.g. bank], a person, or a vehicle, by using violence or by threatening to use violence",
+    "phrase": "hold up sth/sb or hold sth/sb up (2)",
+    "example": ""
+  },
+  { "meaning": "a delay", "phrase": "hold-up (noun) (1)", "example": "" },
+  {
+    "meaning": "when someone steals from someone else using violence or by threatening to use violence",
+    "phrase": "hold-up (noun) (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if an event or situation hots up, it becomes more exciting and there is a lot more activity",
+    "phrase": "hot up",
+    "example": ""
+  },
+  {
+    "meaning": "to be very worried about something and spend a lot of time thinking about it",
+    "phrase": "hung up",
+    "example": ""
+  },
+  {
+    "meaning": "to do something more quickly",
+    "phrase": "hurry up",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone do something more quickly, or to make something happen sooner",
+    "phrase": "hurry up sb/sth or hurry sb/sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone if thy would like to go with you to an even or activity",
+    "phrase": "invite along sb or invite sb along",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone to come to your home",
+    "phrase": "invite around/round sb or invite sb around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone to come to your home after you have been out somewhere together",
+    "phrase": "invite back sb or invite sb back",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone if they would like to come into your house",
+    "phrase": "invite in sb or invite sb in",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone to go with you to a place, for example a restaurant or the cinema",
+    "phrase": "invite out sb or invite sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone to come to your home",
+    "phrase": "invite over sb or invite sb over",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone if they would like to come upstairs",
+    "phrase": "invite up sb or invite sb up",
+    "example": ""
+  },
+  {
+    "meaning": "to become involved in an activity with other people",
+    "phrase": "join in (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to write something quickly on a piece of paper so that you remember it",
+    "phrase": "jot down sth or jot sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to mix things together in an untidy way",
+    "phrase": "jumble up sth or jumble sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to eagerly accept a chance to do or have something",
+    "phrase": "jump at sth",
+    "example": ""
+  },
+  {
+    "meaning": "if something jumps out at you, you notice it immediately",
+    "phrase": "jump out at sb",
+    "example": ""
+  },
+  {
+    "meaning": "to continue working hard at something difficult or something which takes a long time, or to make someone continue to work hard",
+    "phrase": "keep (sb) at sth",
+    "example": ""
+  },
+  {
+    "meaning": "to not go somewhere or near something, or to prevent someone or something from going somewhere or near something",
+    "phrase": "keep away (sb/sth) or keep (sb/sth) away",
+    "example": ""
+  },
+  {
+    "meaning": "to stop the number, level, or size of something from increasing",
+    "phrase": "keep down sth or keep sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to talk to someone about something many times, usually because you want to complain about something they have done or not done",
+    "phrase": "keep on at sb",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to do something, or to do something again and again",
+    "phrase": "keep on doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to not tell someone about something",
+    "phrase": "keep sth from sb",
+    "example": ""
+  },
+  {
+    "meaning": "to do what you have promised or planned to do",
+    "phrase": "keep to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to go at the same speed as someone or something that is moving forward, so that you stay level with them",
+    "phrase": "keep up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to increase or to make progress at the same speed as something or someone else that you stay at the same level as them",
+    "phrase": "keep up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to practise a skill that you have learned in the past so that you continue to be good at it",
+    "phrase": "keep up sth or keep sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to do something, especially to work hard or to do good work",
+    "phrase": "keep it up",
+    "example": ""
+  },
+  {
+    "meaning": "to put information into a computer using a keyboard",
+    "phrase": "key in sth or key sth in",
+    "example": ""
+  },
+  {
+    "meaning": "the time when a football match begins",
+    "phrase": "kick-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to spend a lot of time with someone, either because they are your friend or because you are having a romantic relationship with them",
+    "phrase": "knock about/around together",
+    "example": ""
+  },
+  {
+    "meaning": "to hit someone with a vehicle and injure or kill them",
+    "phrase": "knock down sb or knock sb down",
+    "example": ""
+  },
+  {
+    "meaning": "very low (in price)",
+    "phrase": "knockdown (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to stop working, usually at the end of a day",
+    "phrase": "knock off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to take particular amount away from something, especially a price",
+    "phrase": "knock off sth or knock sth off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to defeat a person or team in a competition so that they have to stop taking stop in it",
+    "phrase": "knock out",
+    "example": ""
+  },
+  {
+    "meaning": "a competition in which only the winners of each stage play in the next stage, until one person or team is the final winner",
+    "phrase": "knockout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to hit or push something or someone, especially accidentally, so that they fall to the ground or onto their side",
+    "phrase": "knock over sth/sb or knock sth/sb over",
+    "example": ""
+  },
+  {
+    "meaning": "to understand something",
+    "phrase": "latch on (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time with someone, especially when they do not want you with them",
+    "phrase": "latch on to/onto sb",
+    "example": ""
+  },
+  {
+    "meaning": "to laugh about something unpleasant in order to make it seem less important or serious",
+    "phrase": "laugh off sth or laugh sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to start doing or saying something [e.g. speech, story] in a very enthusiastic way",
+    "phrase": "launch into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to attack or criticise someone in an angry way",
+    "phrase": "lay into sb",
+    "example": ""
+  },
+  {
+    "meaning": "to stop employing someone because there is no work for them to do",
+    "phrase": "lay off sb or lay sb off",
+    "example": ""
+  },
+  {
+    "meaning": "to relax and enjoy yourself by doing very little",
+    "phrase": "laze about/around",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone believe something that is not true",
+    "phrase": "lead on sb or lead sb on",
+    "example": ""
+  },
+  {
+    "meaning": "if secret information leaks out, people who should not know this information find out about it",
+    "phrase": "leak out",
+    "example": ""
+  },
+  {
+    "meaning": "to try to make someone do what you want by threatening or persuading them",
+    "phrase": "lean on sb",
+    "example": ""
+  },
+  {
+    "meaning": "to not discuss or consider a particular subject so that you can discuss a different subject",
+    "phrase": "leave aside sth or leave sth aside",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place without taking something or someone with you, either because you have forgotten them or because you cannot take them with you",
+    "phrase": "leave behind sth/sb or leave sth/sb behind",
+    "example": ""
+  },
+  {
+    "meaning": "to not include someone or something",
+    "phrase": "leave out sb/sth or leave sb/sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to go away from someone so that they do something by themselves or so they can continue what they are doing",
+    "phrase": "leave sb to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if an amount of money or food is left over, it remains when the rest has been used or doing",
+    "phrase": "left over (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to exist from an earlier time",
+    "phrase": "left over (2)",
+    "example": ""
+  },
+  {
+    "meaning": "existing from an earlier time",
+    "phrase": "leftover (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "food that was prepared fro a meal but not eaten",
+    "phrase": "leftovers (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to disappoint someone by failing to do what you agreed to do or what you were expected to do",
+    "phrase": "let down sb or let sb down",
+    "example": ""
+  },
+  {
+    "meaning": "to not punish someone who has committed a crime or done something wrong, or to not punish someone severely",
+    "phrase": "let off sb or let sb off",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone about something which was supposed to be a secret",
+    "phrase": "let on",
+    "example": ""
+  },
+  {
+    "meaning": "to allow a person or animal to leave somewhere, especially by opening a locked or closed door",
+    "phrase": "let out sb/sth or let sb/sth out",
+    "example": ""
+  },
+  {
+    "meaning": "an excuse or way of avoiding doing something you agree to do",
+    "phrase": "let-out (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if bad weather or an unpleasant situation lets up, it stops or improves",
+    "phrase": "let up",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time lying down and doing very little",
+    "phrase": "lie about/around",
+    "example": ""
+  },
+  {
+    "meaning": "if an event or situation that will cause problems lies ahead, it will happen in the future",
+    "phrase": "lie ahead",
+    "example": ""
+  },
+  {
+    "meaning": "to be the real reason for something",
+    "phrase": "lie behind sth",
+    "example": ""
+  },
+  {
+    "meaning": "to stay in bed in the morning later than you usually do",
+    "phrase": "lie in (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "when you stay in bed in the morning longer than usual",
+    "phrase": "lie-in (noun) (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to exist or be found in something",
+    "phrase": "lie in sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a spacecraft or aircraft lifts off, it leaves the ground",
+    "phrase": "lift off",
+    "example": ""
+  },
+  {
+    "meaning": "the moment when a spacecraft leaves the ground",
+    "phrase": "lift-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to become more relaxed and less serious",
+    "phrase": "lighten up",
+    "example": ""
+  },
+  {
+    "meaning": "something you say to tell someone to stop being so serious or annoyed",
+    "phrase": "Lighten up!",
+    "example": ""
+  },
+  {
+    "meaning": "to secretly listen to a conversation, especially a telephone conversation",
+    "phrase": "listen in",
+    "example": ""
+  },
+  {
+    "meaning": "something you say to tell people to listen to what you are going to say",
+    "phrase": "Listen up! (American)",
+    "example": ""
+  },
+  {
+    "meaning": "if something is littered with a particular type of thing, it has or contains a lot of that thing",
+    "phrase": "littered with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to stop feeling embarrassed about something you have done by waiting until people forget about it",
+    "phrase": "live down sth or live sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to believe that something or someone is the most important thing or person in your life",
+    "phrase": "live for sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to only eat a particular type of food",
+    "phrase": "live off sth",
+    "example": ""
+  },
+  {
+    "meaning": "to have a particular amount of money in order to buy the things you need",
+    "phrase": "live on sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to only eat a particular type of food",
+    "phrase": "live on sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to experience a difficult situation or event",
+    "phrase": "live through sth",
+    "example": ""
+  },
+  {
+    "meaning": "if someone or something lives up to people's expectations or a particular standard, they are as good as they were expected to do",
+    "phrase": "live up to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to become more interesting and exciting, or to make something become like this",
+    "phrase": "liven up (sth) or liven (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to give someone too many things to carry",
+    "phrase": "load down sb or load sb down",
+    "example": ""
+  },
+  {
+    "meaning": "to put a lot of things into a vehicles or machine",
+    "phrase": "load up (sth) or load (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to go to a room or building where you can be alone, usually so that you can work",
+    "phrase": "lock yourself away",
+    "example": ""
+  },
+  {
+    "meaning": "to prevent someone from leaving a room or building by locking the door",
+    "phrase": "lock in sb or lock sb in",
+    "example": ""
+  },
+  {
+    "meaning": "to prevent someone from entering a building by locking the door",
+    "phrase": "lock out sb or lock sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to accidentally prevent yourself from getting into a building or vehicle by leaving the keys inside when you shut the door",
+    "phrase": "lock yourself out",
+    "example": ""
+  },
+  {
+    "meaning": "to connect a computer to a system of computers by typing your name, usually so that you can start working",
+    "phrase": "log in",
+    "example": ""
+  },
+  {
+    "meaning": "to stop a computer being connected to a computer system, usually when you want to stop working",
+    "phrase": "log off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to connect a computer to a system of computers by typing your name, usually so that you can start working",
+    "phrase": "log on",
+    "example": ""
+  },
+  {
+    "meaning": "to stop a computer being connected to a computer system, usually when you want to stop working",
+    "phrase": "log out",
+    "example": ""
+  },
+  {
+    "meaning": "to take care of someone or something by doing what is needed to keep them well or in good condition",
+    "phrase": "look after sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to think about what will happen in the future and plan for these events",
+    "phrase": "look ahead",
+    "example": ""
+  },
+  {
+    "meaning": "to walk through a building or around a place and look at the things in it",
+    "phrase": "look around/round (swh)",
+    "example": ""
+  },
+  {
+    "meaning": "to try to find something you want [e.g. job] by asking different people or by looking in different places",
+    "phrase": "look around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to consider a subject carefully in order to make a decision about it",
+    "phrase": "look at sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to read something quickly and not very carefully",
+    "phrase": "look at sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to think about or remember something that happened in the past",
+    "phrase": "look back",
+    "example": ""
+  },
+  {
+    "meaning": "to think that someone is less important than you, or to think that something is not good enough quality for you to use",
+    "phrase": "look down on sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to try to find something or someone, either because you have lost them or because you need them",
+    "phrase": "look for sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to feel pleased and excited about something that is going to happen",
+    "phrase": "look forward to sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to discover and examine the facts about a problem or situation",
+    "phrase": "look into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to watch an activity or event without becoming involved in it",
+    "phrase": "look on",
+    "example": ""
+  },
+  {
+    "meaning": "to carefully watch the people or things around you so that you will notice a particular person or thing",
+    "phrase": "look out for sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "a person who is watching for danger",
+    "phrase": "lookout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "something you say or shout in order to tell someone that they are in danger",
+    "phrase": "Look out!",
+    "example": ""
+  },
+  {
+    "meaning": "to quickly examine something or someone",
+    "phrase": "look over sth/sb or look sth/sb over",
+    "example": ""
+  },
+  {
+    "meaning": "to read something quickly and not very carefully",
+    "phrase": "look through sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a situation is looking up, it is improving",
+    "phrase": "look up",
+    "example": ""
+  },
+  {
+    "meaning": "to visit someone who you have not seen for a long time when you are visiting the place where they live",
+    "phrase": "look up sb or look sb up",
+    "example": ""
+  },
+  {
+    "meaning": "to look at a book or computer in order to find a piece of information",
+    "phrase": "look up sth or look sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to respect and admire someone",
+    "phrase": "look up to sb",
+    "example": ""
+  },
+  {
+    "meaning": "to not have an advantage that other people have",
+    "phrase": "lose out",
+    "example": ""
+  },
+  {
+    "meaning": "to go in the direction of a place",
+    "phrase": "make for swh",
+    "example": ""
+  },
+  {
+    "meaning": "to be able to see or hear something or someone, usually with difficulty",
+    "phrase": "make out sth/sb or make sth/sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to understand something, especially the reason why something has happened",
+    "phrase": "make out sth or make sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to write all the necessary information on an official document [e.g. cheque, application, ticket]",
+    "phrase": "make out sth or make sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to understand why someone behaves in the way that they do",
+    "phrase": "make out sb or make sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to say or write something that is not true [e.g. excuse, report, story] in order to deceive someone",
+    "phrase": "make up sth or make sth up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to form the whole of something",
+    "phrase": "make up sth or make sth up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "the combination of things which form something",
+    "phrase": "make-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to forgive someone who you have argued with and to become friendly with them again",
+    "phrase": "make up",
+    "example": ""
+  },
+  {
+    "meaning": "to replace something that has been lost, or to provide something good in order to make a bad situation better",
+    "phrase": "make up for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to do something good for someone who you have done something bad to in the past, or to someone who has done something good for you",
+    "phrase": "make it up to sb",
+    "example": ""
+  },
+  {
+    "meaning": "if two pieces of information match up, they are the same and this shows that the information is likely to be correct",
+    "phrase": "match up",
+    "example": ""
+  },
+  {
+    "meaning": "to take a small amount of something from a larger amount, first weighing or measuring it in order to make sure that it is the right amount",
+    "phrase": "measure out sth or measure sth out",
+    "example": ""
+  },
+  { "meaning": "to be good enough", "phrase": "measure up", "example": "" },
+  {
+    "meaning": "to have a meeting with someone in order to discuss or arrange something",
+    "phrase": "meet with sb (American)",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time playing or doing things with no particular purpose",
+    "phrase": "mess about/around (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to behave stupidly or to waste time doing unimportant things",
+    "phrase": "mess about/around (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to treat someone badly, especially by changing your mind a lot or not doing what you have promised",
+    "phrase": "mess sb about/around",
+    "example": ""
+  },
+  {
+    "meaning": "to spoil or damage something, or to do something badly",
+    "phrase": "mess up (sth) or mess (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to walk around a particular place or area, usually while waiting for something",
+    "phrase": "mill about/around (swh)",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say in order to tell someone to be careful or to warn someone of a danger",
+    "phrase": "Mind out! (British & American)",
+    "example": ""
+  },
+  {
+    "meaning": "to not do or get something that you would enjoy or that would be good for you, or to not have something that other people have",
+    "phrase": "miss out",
+    "example": ""
+  },
+  {
+    "meaning": "to fail to include someone or something",
+    "phrase": "miss out sb/sth or miss sb/sth out (British & American)",
+    "example": ""
+  },
+  {
+    "meaning": "to confuse two people or things by thinking that one person or thing is the other person or thing",
+    "phrase": "mix up sth/sb or mix sth/sb up",
+    "example": ""
+  },
+  {
+    "meaning": "a mistake caused by confusion which prevents something from being done or causes something to be done incorrectly",
+    "phrase": "mix-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to be involved in an illegal or unpleasant activity",
+    "phrase": "mixed up in sth",
+    "example": ""
+  },
+  {
+    "meaning": "to talk about a subject as if you know more than everyone else, or to complain a lot about something",
+    "phrase": "mouth off",
+    "example": ""
+  },
+  {
+    "meaning": "if a process moves along, or if you move a process along, it develops in a satisfactory way",
+    "phrase": "move (sth) along",
+    "example": ""
+  },
+  {
+    "meaning": "to begin living in a new house or area",
+    "phrase": "move in",
+    "example": ""
+  },
+  {
+    "meaning": "to start living in the same house as someone you are having a romantic relationship with",
+    "phrase": "move in together",
+    "example": ""
+  },
+  {
+    "meaning": "to stop living in a particular house",
+    "phrase": "move out",
+    "example": ""
+  },
+  {
+    "meaning": "to change the place where you are sitting or standing so that there is space for someone else to sit or stand",
+    "phrase": "move over",
+    "example": ""
+  },
+  {
+    "meaning": "to move slightly so that there is enough space for someone else",
+    "phrase": "move up (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to waste time doing silly things",
+    "phrase": "muck about/around",
+    "example": ""
+  },
+  {
+    "meaning": "to succeed in doing something even though you have difficulties because you do not really know how to do it",
+    "phrase": "muddle through",
+    "example": ""
+  },
+  {
+    "meaning": "to confuse two people or things in your mind",
+    "phrase": "muddle up sb/sth or muddle sb/sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to quickly try to learn the main facts about a subject, especially before an exam",
+    "phrase": "mug up (sth) or mug (sth) up (British)",
+    "example": ""
+  },
+  {
+    "meaning": "to give someone or something the same name as someone or something else",
+    "phrase": "name sb/sth after sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to make something [e.g. list, choice, option] smaller and clearer by removing the things that are less important",
+    "phrase": "narrow down sth or narrow sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to write words or numbers, often so that you do not forget them",
+    "phrase": "note down sth or note sth down",
+    "example": ""
+  },
+  {
+    "meaning": "unattractive or unpleasant",
+    "phrase": "off-putting (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "a person who watches an activity or event without becoming involved in it",
+    "phrase": "onlooker (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if a room, window, or door opens onto a place, it opens in the direction of that place or has a view of it",
+    "phrase": "open onto sth",
+    "example": ""
+  },
+  {
+    "meaning": "to start a new shop or business",
+    "phrase": "open up (sth) or open (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to start to talk more about yourself and your feelings",
+    "phrase": "open up",
+    "example": ""
+  },
+  {
+    "meaning": "to choose not to be part of an activity or arrangement, or to stop being involved with it",
+    "phrase": "opt out",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone what they should do all the time",
+    "phrase": "order sb about/around",
+    "example": ""
+  },
+  {
+    "meaning": "when something unpleasant and difficult to control starts, especially a disease or war",
+    "phrase": "outbreak (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "a public expression of anger or disapproval",
+    "phrase": "outcry (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "a shop that is one of many owned by a particular company and that sells the company's good",
+    "phrase": "outlet (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "a strong expression of emotion",
+    "phrase": "outpouring (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "the beginning of something",
+    "phrase": "outset (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "extremely good, or of a very high standard",
+    "phrase": "outstanding (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to sleep long than you had intended",
+    "phrase": "oversleep",
+    "example": ""
+  },
+  {
+    "meaning": "to admit that you have done something wrong, especially something that is not important",
+    "phrase": "own up",
+    "example": ""
+  },
+  {
+    "meaning": "to put something into a bag or container, or to put something in the place where it is usually kept",
+    "phrase": "pack away sth or pack sth away",
+    "example": ""
+  },
+  {
+    "meaning": "very full of people",
+    "phrase": "packed out (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to collect your thing together and put them into bags or boxes, especially when you have finished doing something",
+    "phrase": "pack up (sth) or pack (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "if two people pair off, they start a romantic relationship",
+    "phrase": "pair off",
+    "example": ""
+  },
+  {
+    "meaning": "to develop or happen in a particular way",
+    "phrase": "pan out",
+    "example": ""
+  },
+  {
+    "meaning": "to have had enough of parties because you have been to so many",
+    "phrase": "partied out",
+    "example": ""
+  },
+  { "meaning": "to die", "phrase": "pass away", "example": "" },
+  {
+    "meaning": "if time or a period of time [e.g. week] passes by, it goes past",
+    "phrase": "pass by",
+    "example": ""
+  },
+  {
+    "meaning": "if someone or something passes for someone or something else, they appear like that person or thing",
+    "phrase": "pass for sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "if an event passes off in a good way, it happens in that way",
+    "phrase": "pass off (British & American)",
+    "example": ""
+  },
+  {
+    "meaning": "to give something to someone else",
+    "phrase": "pass on sth or pass sth on (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone something that someone else has told you",
+    "phrase": "pass on sth or pass sth on (2)",
+    "example": ""
+  },
+  { "meaning": "to die", "phrase": "pass on", "example": "" },
+  {
+    "meaning": "to offer something to each person in a group of people",
+    "phrase": "pass round sth or pass sth round",
+    "example": ""
+  },
+  { "meaning": "to become unconscious", "phrase": "pass out", "example": "" },
+  {
+    "meaning": "to pay someone the money that you owe them",
+    "phrase": "pay back sb/sth or pay sb/sth back",
+    "example": ""
+  },
+  {
+    "meaning": "to do something unpleasant to someone because they have done something unpleasant to you",
+    "phrase": "pay back sb or pay sb back",
+    "example": ""
+  },
+  {
+    "meaning": "if you pay off a debt [e.g. loan, mortgage, overdraft], you pay back all the money you owe",
+    "phrase": "pay off sth or pay sth off",
+    "example": ""
+  },
+  {
+    "meaning": "if something that you have done to try to achieve something pays off, it is successful",
+    "phrase": "pay off",
+    "example": ""
+  },
+  {
+    "meaning": "to give someone the money that you owe them, especially when you do not want to",
+    "phrase": "pay up",
+    "example": ""
+  },
+  {
+    "meaning": "to arrange for something to happen or for someone to do something on a particular date, knowing that the arrangement might be changed later",
+    "phrase": "pencil in sth/sb or pencil sth/sb in",
+    "example": ""
+  },
+  {
+    "meaning": "to make a new system, process, or law gradually being to happen or exist",
+    "phrase": "phase in sth or phase sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to gradually stop using or supplying something",
+    "phrase": "phase out sth or phase sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone several people, often in order to find out information",
+    "phrase": "phone around/round (sb)",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone someone for the second time or to telephone someone who rang you earlier",
+    "phrase": "phone (sb) back",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone someone",
+    "phrase": "phone up (sb) or phone (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to choose one person from a group of people to criticise or treat unfairly, especially when they are smaller or weaker than you",
+    "phrase": "pick on sb",
+    "example": ""
+  },
+  {
+    "meaning": "to lift something or someone by using your hands",
+    "phrase": "pick up sth/sb or pick sth/sb up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to collect someone who is waiting for you, or to collect something that you have left somewhere or that you have bought",
+    "phrase": "pick up sth/sb or pick sth/sb up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "when a car, taxi, etc. collects you",
+    "phrase": "pick-up (noun) (3)",
+    "example": ""
+  },
+  {
+    "meaning": "small truck with an open back",
+    "phrase": "pickup (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to collect something you have left somewhere",
+    "phrase": "pick up sth or pick sth up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to get or buy something when you have gone to a place to do something else",
+    "phrase": "pick up sth or pick sth up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to buy something cheaply",
+    "phrase": "pick up sth or pick sth up (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to learn a new skill or language by practising it rather than being taught it",
+    "phrase": "pick up sth or pick sth up (4)",
+    "example": ""
+  },
+  {
+    "meaning": "if something [e.g. business, economy, trade] picks up, it improves or increases after a bad period",
+    "phrase": "pick up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if the wind picks up, it becomes stronger",
+    "phrase": "pick up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "an increase or improvement",
+    "phrase": "pick-up (noun) (2)",
+    "example": ""
+  },
+  {
+    "meaning": "when you start talking to someone you do not now because you to have a sexual relationship with them",
+    "phrase": "pick-up (noun) (3)",
+    "example": ""
+  },
+  {
+    "meaning": "if something unpleasant [e.g. work, bills, losses] piles up, or if you pile it up, you get more and more of it",
+    "phrase": "pile up (sth) or pile (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "an accident involving several cars",
+    "phrase": "pile-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone give you exact details or a decision about something",
+    "phrase": "pin down sb or pin sb down",
+    "example": ""
+  },
+  {
+    "meaning": "to make decisions or plans about something you will do or something that might happen in the future",
+    "phrase": "plan ahead",
+    "example": ""
+  },
+  {
+    "meaning": "to listen to sounds or watch pictures that you have just recorded",
+    "phrase": "play back sth or play sth back",
+    "example": ""
+  },
+  {
+    "meaning": "to try to make people believe that something is not very important, or that it is unlikely to happen",
+    "phrase": "play down sth or play sth down",
+    "example": ""
+  },
+  {
+    "meaning": "if you ask what someone is playing at, you ask what they are doing, in a way which shows that you are surprised and angry",
+    "phrase": "playing at sth",
+    "example": ""
+  },
+  {
+    "meaning": "a game between two teams that have equal points in order to decide which is the winer",
+    "phrase": "play-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone, especially a child, plays up, they behave badly",
+    "phrase": "play up (British & American)",
+    "example": ""
+  },
+  {
+    "meaning": "if a machine or part of a machine plays up, it does not work as it should",
+    "phrase": "play up (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to connect a piece of electrical equipment to a supply of electricity or to another piece of electrical equipment",
+    "phrase": "plug in sth or plug sth in or plug sth into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to make a person notice someone or something, usually by telling them where they are or by holding up one of your fingers towards them",
+    "phrase": "point out sb/sth or point sb/sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to finish something quickly and easily, especially a large amount of good or a piece of work",
+    "phrase": "polish off sth or polish sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to practice and improve your skills or your knowledge of something that you learned in the past but have partly forgotten",
+    "phrase": "polish up sth or polish sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to go into a place, especially a friend's house, just for a short time",
+    "phrase": "pop in/into",
+    "example": ""
+  },
+  {
+    "meaning": "to leave the place where you are and go somewhere for a short time",
+    "phrase": "pop out",
+    "example": ""
+  },
+  { "meaning": "to rain heavily", "phrase": "pour down", "example": "" },
+  {
+    "meaning": "to arrive or enter somewhere in very large numbers",
+    "phrase": "pour in",
+    "example": ""
+  },
+  {
+    "meaning": "provide a lot of money for something over a long period",
+    "phrase": "pour sth into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to fill a glass, cup etc. with a drink",
+    "phrase": "pour out sth or pour sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place in large numbers",
+    "phrase": "pour out",
+    "example": ""
+  },
+  {
+    "meaning": "if you pour out your feelings or thoughts, you talk very honestly about what is making you sad",
+    "phrase": "pour out sth or pour sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to try to persuade someone, usually someone in authority, to give you something or to allow something to happen",
+    "phrase": "press (sb) for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to have very little or not enough of something, especially time or money",
+    "phrase": "pressed for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to continue doing something in a determined way",
+    "phrase": "press on",
+    "example": ""
+  },
+  {
+    "meaning": "to produce a printed copy of a document that has been written on a computer",
+    "phrase": "print out (sth) or print (sth) out",
+    "example": ""
+  },
+  {
+    "meaning": "information or a document that is printed from a computer",
+    "phrase": "printout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly get in front of another car or person that was previously driving or running at the same speed as you",
+    "phrase": "pull ahead",
+    "example": ""
+  },
+  {
+    "meaning": "to destroy a building or other structure because it is not being used or it is not wanted any more",
+    "phrase": "pull down sth or pull sth down",
+    "example": ""
+  },
+  {
+    "meaning": "if a train pulls in or pulls into a station, it arrives there",
+    "phrase": "pull in",
+    "example": ""
+  },
+  {
+    "meaning": "if a car pulls in or pulls into a place, it moves to the side of the road or to another place where it can stop",
+    "phrase": "pull in or pull into swh",
+    "example": ""
+  },
+  {
+    "meaning": "to succeed in doing or achieving something difficult",
+    "phrase": "pull off sth or pull sth off",
+    "example": ""
+  },
+  {
+    "meaning": "if a train pulls out, it starts to leave a station",
+    "phrase": "pull out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to drive onto a road, either from another road or from the side of the road where you have stopped",
+    "phrase": "pull out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to stop being involved in an activity or agreement",
+    "phrase": "pull out (sth/sb) or pull (sth/sb) out",
+    "example": ""
+  },
+  {
+    "meaning": "to drive a car to the side of the road in order to stop",
+    "phrase": "pull over",
+    "example": ""
+  },
+  {
+    "meaning": "to recover from a serious illness, or to help someone to do this",
+    "phrase": "pull (sb) through",
+    "example": ""
+  },
+  {
+    "meaning": "to work as a group in order to achieve something",
+    "phrase": "pull together",
+    "example": ""
+  },
+  {
+    "meaning": "to become calm after being so angry or upset that you were unable to behave in a sensible way",
+    "phrase": "pull yourself together",
+    "example": ""
+  },
+  {
+    "meaning": "if a car pulls up, it stops, often for a short time",
+    "phrase": "pull up",
+    "example": ""
+  },
+  {
+    "meaning": "to fill something with air by using a pump",
+    "phrase": "pump up sth or pump sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to rudely join a line or people who are waiting for something by moving in front of some of the people who are already there",
+    "phrase": "push in (British & American)",
+    "example": ""
+  },
+  {
+    "meaning": "to explain or express something clearly so that people understand it easily",
+    "phrase": "put across sth or put sth across",
+    "example": ""
+  },
+  {
+    "meaning": "to roughly calculate that something will cost a particular amount or that something is a particular size or amount",
+    "phrase": "put sth at sth",
+    "example": ""
+  },
+  {
+    "meaning": "to change the date or time of an even so that it happens later than planned",
+    "phrase": "put back sth or put sth back (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if you put a watch or clock back, you make it show an earlier time",
+    "phrase": "put back sth or put sth back (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to land in an aircraft, or to make an aircraft land",
+    "phrase": "put down (sth) or put (sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "if you put the phone down, you put the part of the telephone that you speak into back into its usual position after your conversation has ended",
+    "phrase": "put down sth or put sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone feel stupid or unimportant by criticising them",
+    "phrase": "put down sb or put sb down",
+    "example": ""
+  },
+  {
+    "meaning": "an unkind remark that makes someone seem foolish",
+    "phrase": "put-down (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to state an idea or opinion, or to suggest a plan, so that it can be considered or discussed",
+    "phrase": "put forward sth or put sth forward",
+    "example": ""
+  },
+  {
+    "meaning": "to change the date or time of an event so that is happens earlier than planned",
+    "phrase": "put forward",
+    "example": ""
+  },
+  {
+    "meaning": "if you put forward a clock or watch, you make it show a later time",
+    "phrase": "put forward sth or put sth forward",
+    "example": ""
+  },
+  {
+    "meaning": "to fix new equipment or a new system in the correct place in a room or building",
+    "phrase": "put in sth or put sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to decide or arrange to do something at a later time",
+    "phrase": "put off sth/doing sth or put sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone that you cannot see them or do something for them until a later time",
+    "phrase": "put off sb or put sb off",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone not like someone or something, or not want to do something",
+    "phrase": "put off sb or put sb off (sb/sth/doing sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to put a piece of clothing onto your body",
+    "phrase": "put on sth or put sth on (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to make a device [e.g. light, fire] work by pressing a switch",
+    "phrase": "put on sth or put sth on (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to pretend to have a particular feeling, or to behave in a way which is not real or natural for you",
+    "phrase": "put on sth or put sth on (3)",
+    "example": ""
+  },
+  {
+    "meaning": "pretend or not genuine",
+    "phrase": "put-on (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to organise a play, show, or competition",
+    "phrase": "put on sth or put sth on (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to begin to cook food",
+    "phrase": "put on sth or put sth on (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to put something that sounds or pictures are recorded onto [e.g. CD, video] into a machine which makes you able to hear or see the recording",
+    "phrase": "put on sth or put sth on (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to give someone the telephone so that they can speak to the person who is on it",
+    "phrase": "put on sb or put sb on (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone about something or someone that could help them, often something or someone they did not know about before",
+    "phrase": "put sb on to/onto sth",
+    "example": ""
+  },
+  {
+    "meaning": "to make a light stop shining by pressing a switch",
+    "phrase": "put out sth or put sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to make something that is burning [e.g. fire, cigarette] stop burning",
+    "phrase": "put out sth or put sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to produce information [e.g. statement, warning, press release] and make it available for everyone to read or hear",
+    "phrase": "put out sth or put sth out (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to injure a part of you body [e.g. back, shoulder] by making a bone move from its usual place",
+    "phrase": "put out sth or put sth out (4)",
+    "example": ""
+  },
+  {
+    "meaning": "to be annoyed, often because of something that someone has done or said to you",
+    "phrase": "put out",
+    "example": ""
+  },
+  {
+    "meaning": "to express an idea clearly so that people understand it",
+    "phrase": "put over sth or put sth over",
+    "example": ""
+  },
+  {
+    "meaning": "to connect a telephone caller to the person they want to speak to",
+    "phrase": "put through sb or put sb through",
+    "example": ""
+  },
+  {
+    "meaning": "to suggest an idea or plan to someone so that they can consider it or discuss it",
+    "phrase": "put sth to sb",
+    "example": ""
+  },
+  {
+    "meaning": "to build a structure [e.g. wall, building, statue]",
+    "phrase": "put up sth or put sth up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to stick or fasten a piece of paper [e.g. notice, poster] to a wall so that it can be seen",
+    "phrase": "put up sth or put sth up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to open something that is folded or rolled up [e.g. tent, umbrella] so that it is ready to be used",
+    "phrase": "put up sth or put sth up (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to let someone stay in your home for a short period",
+    "phrase": "put up sb or put sb up",
+    "example": ""
+  },
+  {
+    "meaning": "to encourage someone to do something stupid or wrong",
+    "phrase": "put sb up to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to accept unpleasant behaviour or an unpleasant situation, even though you do not like it",
+    "phrase": "put up with sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "if a sport or other outside activity is rained off, it cannot start or continue because it is raining",
+    "phrase": "rained off",
+    "example": ""
+  },
+  {
+    "meaning": "to get something that is above your head by reaching with your hand",
+    "phrase": "reach down sth or reach sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to stretch your arm in front of your body, usually in order to get or touch something",
+    "phrase": "reach out (sth) or reach (sth) out",
+    "example": ""
+  },
+  {
+    "meaning": "to believe that an action, remark, or situation has a particular importance or meaning, often when this is not true",
+    "phrase": "read sth into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to read something and say they words aloud so that other people can hear",
+    "phrase": "read out sth or read sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to read something from the beginning to the end in order to find any mistakes or to understand it better",
+    "phrase": "read over/through sth or read sth over/through",
+    "example": ""
+  },
+  {
+    "meaning": "to read something from the beginning to the end in order to find any mistakes or to understand it better",
+    "phrase": "read through",
+    "example": ""
+  },
+  {
+    "meaning": "to read a lot about a particular subject in order to learn about it",
+    "phrase": "read up on sth",
+    "example": ""
+  },
+  {
+    "meaning": "to trust someone or something to do what you need them to do",
+    "phrase": "real on/upon sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "if an activity or conversation revolves around something or someone, that thing or person is the main reason for the activity, or the main subject of the conversation",
+    "phrase": "revolved around/round sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone someone for the second time, or to telephone someone who rang you earlier º",
+    "phrase": "ring (sb) back",
+    "example": ""
+  },
+  {
+    "meaning": "to telephone someone at your place of work, usually to explain why you are not there",
+    "phrase": "ring in (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to end a telephone call by putting down the part of the telephone that you speak into",
+    "phrase": "ring off (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to cheat someone by making the pay too much money for something",
+    "phrase": "rip off sb or rip sb off",
+    "example": ""
+  },
+  {
+    "meaning": "something that costs far too much money",
+    "phrase": "rip-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to not allow something bad that is happening or being done to you to upset you or to affect your behavior",
+    "phrase": "rise above sth",
+    "example": ""
+  },
+  {
+    "meaning": "to show support for someone in a competition, or to hope that someone will succeed in doing something difficult",
+    "phrase": "root for sb",
+    "example": ""
+  },
+  {
+    "meaning": "to find and get rid of the thing or person that is causing a problem",
+    "phrase": "root out sth/sb or root sth/sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to persuade someone to help you with something, especially when they do not want to",
+    "phrase": "rope in sb or rope sb in",
+    "example": ""
+  },
+  {
+    "meaning": "to put a substance [e.g. ointment] onto the surface of something and to rub it so that it goes into the surface",
+    "phrase": "rub in sth or rub sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to talk to someone about something which you know they want to forget because they feel bad about it",
+    "phrase": "rub sth in",
+    "example": ""
+  },
+  {
+    "meaning": "to remove writing from something by rubbing it with a piece of rubber or with a cloth",
+    "phrase": "rub out sth or rub sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to decide that something or someone is not suitable for a particular purpose, or to decide that something is impossible",
+    "phrase": "rule out sb/sth or rule sb/sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to meet someone you know when you are not expecting to meet them",
+    "phrase": "run across sb",
+    "example": ""
+  },
+  {
+    "meaning": "to secretly leave a place because you unhappy there",
+    "phrase": "run away",
+    "example": ""
+  },
+  {
+    "meaning": "to repeat something, or to tell someone about something, so that they can give their opinion of it or hear it again",
+    "phrase": "run sth by sb",
+    "example": ""
+  },
+  {
+    "meaning": "to criticise someone or something, often unfairly",
+    "phrase": "run down sb/sth or run sb/sth down",
+    "example": ""
+  },
+  {
+    "meaning": "in poor condition or shabby",
+    "phrase": "rundown (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to accidentally hit something while you are driving a vehicle",
+    "phrase": "run into sth (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to meet someone that you know when you did not expect to meet them",
+    "phrase": "run into sb",
+    "example": ""
+  },
+  {
+    "meaning": "if the amount or cost of something runs into thousands, millions etc., it reaches that level",
+    "phrase": "run into sth (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to print several copies of something",
+    "phrase": "run off sth or run sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to quickly and easily write something that is usually difficult to write [e.g. poem, speech]",
+    "phrase": "run off sth or run sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to secretly leave a place with someone in order to live with them or marry them, especially when other people think this is wrong",
+    "phrase": "run off with sb",
+    "example": ""
+  },
+  {
+    "meaning": "to continue for longer that expected",
+    "phrase": "run on",
+    "example": ""
+  },
+  {
+    "meaning": "to use all of something so that there is none left",
+    "phrase": "run out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if a document or official agreement runs out, the period of time it lasts for comes to an end",
+    "phrase": "run out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to hit someone or something with a vehicle and drive over them, injuring or killing them",
+    "phrase": "run over sb/sth or run sb/sth over",
+    "example": ""
+  },
+  {
+    "meaning": "to repeat something in order to practise it or to make sure that it is correct",
+    "phrase": "run through sth",
+    "example": ""
+  },
+  {
+    "meaning": "a practice or rehearsal",
+    "phrase": "run-through (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to reach a particular amount, usually a large amount",
+    "phrase": "run to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if you run up against problem or difficulties, you begin to experience them",
+    "phrase": "run up against sth",
+    "example": ""
+  },
+  {
+    "meaning": "if you run up a debt [e.g. bill, deficit], you do things which cause you to owe a large amount of money",
+    "phrase": "run up sth or run sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to keep money so that you can buy something with it in the future",
+    "phrase": "save up (sth) or save (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to make a person or animal so frightened that they go away",
+    "phrase": "scare away sb/sth or scare sb/sth away",
+    "example": ""
+  },
+  {
+    "meaning": "to manage with a lot of difficulty to succeed in something [e.g. exam]",
+    "phrase": "scrape through (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to twist and crush paper or material with your hands",
+    "phrase": "screw up sth or screw sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to make a mistake, or to damage or spoil something",
+    "phrase": "screw up (sth) or screw (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "unhappy and anxious because of bad experiences",
+    "phrase": "screwed-up (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "to write something very quickly on a piece of paper",
+    "phrase": "scribble down sth or scribble sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to move text or other information across/down/up a computer screen in order to view a different part of it",
+    "phrase": "scroll across/down/up (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to deal with something, or to arrange for something to be done",
+    "phrase": "see about sth",
+    "example": ""
+  },
+  {
+    "meaning": "to see someone in the place you usually see them",
+    "phrase": "see sb about/around",
+    "example": ""
+  },
+  {
+    "meaning": "to go to the place that someone is leaving from in order to say goodbye",
+    "phrase": "see off sb or see sb off",
+    "example": ""
+  },
+  {
+    "meaning": "to go with someone to the door of a room or building when they are leaving",
+    "phrase": "see out sb or see sb out",
+    "example": ""
+  },
+  {
+    "meaning": "if you see through someone who is trying to deceive you, or if you see through someone's behavior, you realise what they are really like and what they are trying to do",
+    "phrase": "see through sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to help or support someone during a difficult period in their life",
+    "phrase": "see sb through (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to deal with something that needs doing or to help someone who needs your help",
+    "phrase": "see to sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to sell something at a low price because you do not want it or because you need some money",
+    "phrase": "sell off sth or sell sth off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to sell all or part of a business",
+    "phrase": "sell off sth or sell sth off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "a sale of all or part of a business",
+    "phrase": "sell-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if a shop sells out, it has no more of a particular product available to buy",
+    "phrase": "sell out",
+    "example": ""
+  },
+  {
+    "meaning": "when all the tickets for an event have been sold",
+    "phrase": "sell-out (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to sell your house or business in order to go somewhere else or do something else",
+    "phrase": "sell up (sth) or sell (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to write to an organisation to ask them to send you something",
+    "phrase": "send away for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to return something to the company you bought it from because it is unsuitable or damaged",
+    "phrase": "send back sth or send sth back",
+    "example": ""
+  },
+  {
+    "meaning": "to send someone a message asking them to come to see you",
+    "phrase": "send for sb",
+    "example": ""
+  },
+  {
+    "meaning": "to send a letter, document, or parcel by post",
+    "phrase": "send off sth or send sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to order a sports player to leave the playing area during a game because they have done something wrong",
+    "phrase": "send off sb or send sb off (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone or something seem stupid by copying them in a funny way",
+    "phrase": "send up sb/sth or send sb/sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to start doing something, especially something that uses a lot of time or energy",
+    "phrase": "set about sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to be opposed to doing or having something",
+    "phrase": "set against sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "if a quality sets someone or something apart, it makes them different from and usually better than others of the same type",
+    "phrase": "set apart sb/sth or set sb/sth apart",
+    "example": ""
+  },
+  {
+    "meaning": "to use something, especially time or money, for one purpose and no other purpose",
+    "phrase": "set aside sth or set sth aside",
+    "example": ""
+  },
+  {
+    "meaning": "a problem that makes something happen later or more slowly than it should",
+    "phrase": "setback (noun)",
+    "example": ""
+  },
+  { "meaning": "to start a journey", "phrase": "set off", "example": "" },
+  {
+    "meaning": "to cause a loud noise or explosion [e.g. bomb, firework, alarm] to begin or happen",
+    "phrase": "set off sth or set sth off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to cause a series of events or a lot of activity, often without intending to do this",
+    "phrase": "set off sth or set sth off (2)",
+    "example": ""
+  },
+  { "meaning": "to start a journey", "phrase": "set out (1)", "example": "" },
+  {
+    "meaning": "to start an activity, especially when you have already decided what you want to achieve",
+    "phrase": "set out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to give all the details of something, or to explain something clearly, especially in writing",
+    "phrase": "set out sth or set sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone start to laugh, cry, or talk about something that they often talk about",
+    "phrase": "set sb off (doing sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to start a company or organisation",
+    "phrase": "set up sth o set sth up",
+    "example": ""
+  },
+  {
+    "meaning": "the way in which things are organized or arranged",
+    "phrase": "set-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to start living in a place where you intend to stay for along time, usually with the same partner, especially after a period in which you have travelled a lot or changed partners",
+    "phrase": "settle down",
+    "example": ""
+  },
+  {
+    "meaning": "to accept something, often something that is not exactly what you want, or is not the best",
+    "phrase": "settle for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to pay someone the money that you owe them",
+    "phrase": "settle up",
+    "example": ""
+  },
+  {
+    "meaning": "to make something more exciting than it really is",
+    "phrase": "sex up sth or sex sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to get rid of an illness or something that is causing you problems",
+    "phrase": "shake off sth or shake sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place suddenly and often secretly, especially to avoid something",
+    "phrase": "shoot through (Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "if the number, amount, or rate of something shoots up, it increases very quickly",
+    "phrase": "shoot up",
+    "example": ""
+  },
+  {
+    "meaning": "to compare the price and quality of the same item or service from different shops or companies before deciding which one to buy",
+    "phrase": "shop around",
+    "example": ""
+  },
+  {
+    "meaning": "to go with someone to a place that they have not visited before and show them the interesting parts",
+    "phrase": "show sb around/round (swh)",
+    "example": ""
+  },
+  {
+    "meaning": "to try to make people admire your abilities or achievements in a way which other people find annoying",
+    "phrase": "show off",
+    "example": ""
+  },
+  {
+    "meaning": "someone who tries to make people admire them in a way other people find annoying",
+    "phrase": "show-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to lead a visitor who is leaving to the door of a room or building",
+    "phrase": "show out sb or show sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to arrive, especially at a place where people are expecting you",
+    "phrase": "show up",
+    "example": ""
+  },
+  {
+    "meaning": "if a factory or business shuts down, of if someone shuts it down, it closes and stops working",
+    "phrase": "shut down (sth) or shut (sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "to stop talking or making a noise, or to make someone do this",
+    "phrase": "shut (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to arrange to take part in an activity",
+    "phrase": "sign up",
+    "example": ""
+  },
+  {
+    "meaning": "if a fact or idea, especially a surprising or unpleasant one, sinks in you gradually start to believe it or realise what effect it will have on you",
+    "phrase": "sink in",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time sitting down and doing very little",
+    "phrase": "sit about/around (swh)",
+    "example": ""
+  },
+  {
+    "meaning": "to not spend enough time or money on something, or not use enough of something",
+    "phrase": "skimp on sth",
+    "example": ""
+  },
+  {
+    "meaning": "to work very hard with little or no rest",
+    "phrase": "slave away",
+    "example": ""
+  },
+  {
+    "meaning": "to sleep longer in the morning that you normally do",
+    "phrase": "sleep in",
+    "example": ""
+  },
+  {
+    "meaning": "if someone sleeps on a decision or problem, they wait until the next day before they decide what to do about it",
+    "phrase": "sleep on sth",
+    "example": ""
+  },
+  {
+    "meaning": "to sleep in someone else's home for a night",
+    "phrase": "sleep over",
+    "example": ""
+  },
+  {
+    "meaning": "a party at which several young people sleep at a friend's house for a night",
+    "phrase": "sleepover (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone sleeps through a noise or an activity, the noise or activity does not wake them",
+    "phrase": "sleep through sth",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place quietly so that other people do not notice you going",
+    "phrase": "slip off",
+    "example": ""
+  },
+  {
+    "meaning": "if a piece of information slips out while you are talking to someone, you tell it to them without intending to",
+    "phrase": "slip out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a place quietly so that other people do not notice you going",
+    "phrase": "slip out (2)",
+    "example": ""
+  },
+  { "meaning": "to make a mistake", "phrase": "slip up", "example": "" },
+  {
+    "meaning": "to become less physically active than you were before",
+    "phrase": "slow down",
+    "example": ""
+  },
+  {
+    "meaning": "to become slower, or to make something or someone slower",
+    "phrase": "slow down (sb/sth) or slow (sb/sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "to become slower, or to make something or someone slower",
+    "phrase": "slow up (sth/sb) or slow (sth/sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to buy or get something quickly because it is very cheap or because it is exactly what you want",
+    "phrase": "snap up sth or snap sth up",
+    "example": ""
+  },
+  {
+    "meaning": "if a person or place is snowed in, there is o much snow that it is impossible to travel anywhere or leave that place",
+    "phrase": "snowed in",
+    "example": ""
+  },
+  {
+    "meaning": "to have so much work that you have problems dealing with it",
+    "phrase": "snow under",
+    "example": ""
+  },
+  {
+    "meaning": "to arrange or organise things which are untidy",
+    "phrase": "sort out sth or sort sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to make a decision about something by discussing it with someone else or by considering it carefully",
+    "phrase": "sort out sth or sort sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time dealing with your personal problems or organising your things",
+    "phrase": "sort yourself out (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "if something sparks off an activity [e.g. fighting, violence] or a state, it causes it to suddenly happen or exist",
+    "phrase": "spark off sth or spark sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to publicly express your opinions, especially in order to criticise or oppose someone or something",
+    "phrase": "speak out",
+    "example": ""
+  },
+  {
+    "meaning": "to begin to speak more loudly",
+    "phrase": "speak up (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to publicly express your opinions about something or someone, especially in order to support them",
+    "phrase": "speak up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to explain something in detail and in a clear way",
+    "phrase": "spell out sth or spell sth out",
+    "example": ""
+  },
+  {
+    "meaning": "a product that develops from another more important product",
+    "phrase": "spin-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "something you say to encourage someone to tell you something which they do not want to tell you",
+    "phrase": "Spit it out!",
+    "example": ""
+  },
+  {
+    "meaning": "to spend a lot of money on something which is very pleasant but which you do not need",
+    "phrase": "splash out",
+    "example": ""
+  },
+  {
+    "meaning": "if two people who are married or who have a romantic relationship split up, they end their marriage or relationship",
+    "phrase": "split up",
+    "example": ""
+  },
+  {
+    "meaning": "if a group of people spread out, they move away from each other so that there is a wide space between them",
+    "phrase": "spread out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to open something that is folded [e.g. map, towel] and put it down flat on a surface",
+    "phrase": "spread out sth or spread sth out",
+    "example": ""
+  },
+  {
+    "meaning": "if people or things are spread out, they are in different parts of a large area and are not close together",
+    "phrase": "spread out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to be caused by something",
+    "phrase": "spring from sth",
+    "example": ""
+  },
+  {
+    "meaning": "to manage to do something or see someone when you are very busy and do not have much time available",
+    "phrase": "squeeze in sth/sb or squeeze sth/sb in",
+    "example": ""
+  },
+  {
+    "meaning": "to get rid of something that is considered wrong or harmful",
+    "phrase": "stamp out sth or stamp sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time standing in a place waiting for someone or doing very little",
+    "phrase": "stand about/around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to support to help someone when they are in a difficult situation",
+    "phrase": "stand by sb",
+    "example": ""
+  },
+  {
+    "meaning": "a cheap ticket for a flight or performance which is sold just before the flight or performance if there are any seats available",
+    "phrase": "standby (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to leave an important job or official position so that someone else can do it instead",
+    "phrase": "stand down (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "if a letter stand for a word or name, it is the first letter of that word or name and it is used to represent it",
+    "phrase": "stand for sth",
+    "example": ""
+  },
+  {
+    "meaning": "to compete in an election for an official position, or to try to be elected as member of an organisation [e.g. parliament]",
+    "phrase": "stand for sth (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to do someone else's job for a short period of time, or to take someone else's place at an event, because that person cannot be there",
+    "phrase": "stand in",
+    "example": ""
+  },
+  {
+    "meaning": "to be much better than other similar things or people",
+    "phrase": "stand out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if someone or somethings stands out, they are very noticeable because they look different or behave differently from other people or things",
+    "phrase": "stand out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to fail to meet someone on purpose, especially someone with whom you were starting to have a romantic relationship",
+    "phrase": "stand up sb or stand sb up",
+    "example": ""
+  },
+  {
+    "meaning": "to defend something that you believe is important [e.g. principle, right], or to defend a person who is being criticised",
+    "phrase": "stand up for sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "if you stand up to a powerful person or organisation, you state your opinions forcefully and refuse to agree with them or do what they want",
+    "phrase": "stand up to sb",
+    "example": ""
+  },
+  {
+    "meaning": "to start a life, existence, or profession in a particular way",
+    "phrase": "start off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to start off a journey",
+    "phrase": "start off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to start a life, existence, or profession in a particular way",
+    "phrase": "start out",
+    "example": ""
+  },
+  {
+    "meaning": "if a business or other organisation starts up, or if someone starts one up, it is created and starts to operate",
+    "phrase": "start up (sth) or start (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to be move advanced and successful than other people",
+    "phrase": "stay ahead",
+    "example": ""
+  },
+  {
+    "meaning": "to avoid something that has a bad effect on you",
+    "phrase": "stay away from sth",
+    "example": ""
+  },
+  {
+    "meaning": "to not leave a place when other people leave it",
+    "phrase": "stay behind",
+    "example": ""
+  },
+  {
+    "meaning": "to remain at home, especially in the evening",
+    "phrase": "stay in",
+    "example": ""
+  },
+  {
+    "meaning": "to stay in a place longer than you planned or after other people have left it",
+    "phrase": "stay on",
+    "example": ""
+  },
+  {
+    "meaning": "to not come home at night, or to come home late",
+    "phrase": "stay out",
+    "example": ""
+  },
+  {
+    "meaning": "to not become involved in a discussion or an argument",
+    "phrase": "stay out of sth",
+    "example": ""
+  },
+  {
+    "meaning": "to spend the night somewhere instead of returning to your home or continuing your journey",
+    "phrase": "stay over",
+    "example": ""
+  },
+  {
+    "meaning": "to go to bed later than usual",
+    "phrase": "stay up",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say in order to tell someone that you think what they are saying is too extreme",
+    "phrase": "Steady on! (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to leave your job, especially so that someone else can do it",
+    "phrase": "step down",
+    "example": ""
+  },
+  {
+    "meaning": "something that you say to someone, especially someone who is driving, when you want them to hurry",
+    "phrase": "Step on it!",
+    "example": ""
+  },
+  {
+    "meaning": "to do more of an activity or to increase the speed of a process, usually in order to improve a situation",
+    "phrase": "step up sth or step sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to stay somewhere for a period of time",
+    "phrase": "stick around",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to support even though it is difficult or tiring",
+    "phrase": "stick at sth",
+    "example": ""
+  },
+  {
+    "meaning": "to continue to support someone when they are having problems",
+    "phrase": "stick by sb",
+    "example": ""
+  },
+  {
+    "meaning": "if part of something sticks out, it comes out beyond the edge or surface of something",
+    "phrase": "stick out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if a quality or characteristics of someone or something sticks out, it is very easy to notice",
+    "phrase": "stick out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if two or more people stick together, they support each other, especially when they are in a difficult situation",
+    "phrase": "stick together",
+    "example": ""
+  },
+  {
+    "meaning": "to defend a person when they are being criticised",
+    "phrase": "stick up for sb",
+    "example": ""
+  },
+  {
+    "meaning": "to do or use something as you had planned and not change to something else, or to continue doing something even though it is difficult",
+    "phrase": "stick with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to continue doing something even though it is difficult",
+    "phrase": "stick with it",
+    "example": ""
+  },
+  {
+    "meaning": "to cause arguments or bad feeling between people, usually on purpose",
+    "phrase": "stir up sth or stir sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to buy a lot of something, often food or drink",
+    "phrase": "stock up",
+    "example": ""
+  },
+  {
+    "meaning": "to visit a place for a short time when you are going somewhere else",
+    "phrase": "stop off",
+    "example": ""
+  },
+  {
+    "meaning": "to stop somewhere for a period of time when you are on a long journey",
+    "phrase": "stop over",
+    "example": ""
+  },
+  {
+    "meaning": "a short stay in a place that you make while you are on a longer journey somewhere else",
+    "phrase": "stopover (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "very worried and anxious",
+    "phrase": "stressed-out (adjective)",
+    "example": ""
+  },
+  {
+    "meaning": "if an area of land stretches away, it continues over a long distance",
+    "phrase": "stretch away",
+    "example": ""
+  },
+  {
+    "meaning": "to describe briefly the most important facts or characteristics of something or someone",
+    "phrase": "sum up (sth/sb) or sum (sth/sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to discover what someone or something is really like, or to find out how a machine or piece of equipment works",
+    "phrase": "suss out sb/sth or suss sb/sth out (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to remove rubbish or dirt, usually from the floor, using a brush",
+    "phrase": "sweep up (sth) or sweep (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "if a part of your body swells up, it becomes larger or rounder than usual, often because of an illness or injury",
+    "phrase": "swell up",
+    "example": ""
+  },
+  {
+    "meaning": "to turn off an electrical device [e.g. light, radio] or an engine by using a switch",
+    "phrase": "switch off (sth) or switch (sth) off",
+    "example": ""
+  },
+  {
+    "meaning": "to learn as much as you can about something, especially before an exam",
+    "phrase": "swot up (sth) or swot (sth) up (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to go somewhere with a person, especially when they have not asked you to go with them",
+    "phrase": "tag along",
+    "example": ""
+  },
+  {
+    "meaning": "a long line of traffic that is moving very slowly",
+    "phrase": "tailback (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to have a similar appearance or character as an older member of your family",
+    "phrase": "take after sb",
+    "example": ""
+  },
+  {
+    "meaning": "to separate something into its different parts",
+    "phrase": "take apart sth or take sth apart",
+    "example": ""
+  },
+  {
+    "meaning": "to talk through a building or to visit a place with someone, showing them the most interesting or important",
+    "phrase": "take around/round sb or take sb around/round (swh)",
+    "example": ""
+  },
+  {
+    "meaning": "to separate someone from a group of people so that you can speak to them privately",
+    "phrase": "take aside sb or take sb aside",
+    "example": ""
+  },
+  {
+    "meaning": "if you take one number away from another one, you subtract the first number from the second",
+    "phrase": "take away sth or take sth away",
+    "example": ""
+  },
+  {
+    "meaning": "to buy food in a shop or restaurant and eat it somewhere else",
+    "phrase": "take away sth or take sth away (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "a meal that you can buy and take somewhere else to eat, or a shop where you can buy this food",
+    "phrase": "takeaway (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to return something to the person or organisation that you borrowed or bought it from",
+    "phrase": "take back sth or take sth back (1)",
+    "example": ""
+  },
+  {
+    "meaning": "if a shop takes back goods that it has sold to you, it agrees to give you money or goods for them because they are damaged or unsuitable",
+    "phrase": "take back sth or take sth back (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to admit that something you said was wrong",
+    "phrase": "take back sth or take sth back (3)",
+    "example": ""
+  },
+  {
+    "meaning": "if something takes you back, it makes you remember a period or an event in the past",
+    "phrase": "take back sb or take sb back",
+    "example": ""
+  },
+  {
+    "meaning": "to write something, especially something that someone says",
+    "phrase": "take down sth or take sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to let someone stay in your house",
+    "phrase": "take in sb or take sb in (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to deceive someone, or to make someone believe something that is not true",
+    "phrase": "take in sb or take sb in (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to look at something carefully, noticing all the details",
+    "phrase": "take in sth or take sth in (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to understand the meaning or importance of news or information, or to understand remember facts",
+    "phrase": "take in sth or take sth in (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if a boat takes in water, water enters the boat through a hole",
+    "phrase": "take in sth or take sth in (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to make a piece of clothing narrower by removing the sewing from the edges and sewing closer to the middle of the material",
+    "phrase": "take in sth or take sth in (4)",
+    "example": ""
+  },
+  {
+    "meaning": "to remove something, especially something that you are wearing",
+    "phrase": "take off sth or take sth off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time away from your work",
+    "phrase": "take off sth or take sth off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if an aircraft, bird, or insect takes off, it moves from the ground and beings to fly",
+    "phrase": "take off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "when an aircraft leaves the ground and begins to fly",
+    "phrase": "take-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly become successful or popular",
+    "phrase": "take off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to suddenly leave somewhere, especially without telling anyone that you are going",
+    "phrase": "take off (3)",
+    "example": ""
+  },
+  {
+    "meaning": "to subtract a particular job or responsibility and begin to do what is needed",
+    "phrase": "take off sth or take sth off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to get money from a bank",
+    "phrase": "take out sth or take sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to arrange to get an official document [e.g. insurance policy] from an organisation or court of law",
+    "phrase": "take out sth or take sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to treat someone badly because you are upset or angry, even though they have done nothing wrong",
+    "phrase": "take out sth on sb or take sth out on sb",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone feel very tired",
+    "phrase": "take sth out of sb",
+    "example": ""
+  },
+  {
+    "meaning": "to start doing a job or being responsible for something that someone else was doing or was responsible for before you",
+    "phrase": "take over (sth) or take (sth) over",
+    "example": ""
+  },
+  {
+    "meaning": "to get control of a company by buying most of its shares (= the equal parts into which the ownership of the company is divided)",
+    "phrase": "take over sth or take sth over",
+    "example": ""
+  },
+  {
+    "meaning": "an act of gaining control of a company",
+    "phrase": "takeover (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to become more successful or powerful than something or someone else that is involved in the same type of activity",
+    "phrase": "take over",
+    "example": ""
+  },
+  {
+    "meaning": "to explain something to someone, or to show someone how to do something",
+    "phrase": "take sb through sth",
+    "example": ""
+  },
+  {
+    "meaning": "to start to like someone or something",
+    "phrase": "take to sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to start to do something often",
+    "phrase": "take to sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to start doing a particular job or activity",
+    "phrase": "take up sth or take sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to accept an offer that someone has made",
+    "phrase": "take sb up on sth",
+    "example": ""
+  },
+  {
+    "meaning": "to be very busy doing something",
+    "phrase": "taken up with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to persuade someone to agree with you or to do what you want them to do",
+    "phrase": "talk sb around/round",
+    "example": ""
+  },
+  {
+    "meaning": "to talk to someone as if they were less clever than you",
+    "phrase": "talk down to sb",
+    "example": ""
+  },
+  {
+    "meaning": "to discuss a problem or situation, especially before making a decision about it",
+    "phrase": "talk over sth or talk sth over",
+    "example": ""
+  },
+  {
+    "meaning": "to persuade someone to do something",
+    "phrase": "talk sb into sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to pull something violently so that it breaks into two or more pieces",
+    "phrase": "tear apart sth or tear sth apart",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone to stop doing something that they enjoy in order to do something else",
+    "phrase": "tear sb apart",
+    "example": ""
+  },
+  {
+    "meaning": "to force someone to stop doing something that they enjoy in order to do something else",
+    "phrase": "tear sb away",
+    "example": ""
+  },
+  {
+    "meaning": "to destroy a building or other structure because it is not being used or it is not wanted any more",
+    "phrase": "tear down sth or tear sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to tear something, especially paper or cloth, into a lot of small piece",
+    "phrase": "tear up sth or tear sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to be able to see the difference between two similar things or people and judge which is which",
+    "phrase": "tell sb/sth apart",
+    "example": ""
+  },
+  {
+    "meaning": "if you can tell one person or thing from a similar person or thing, you are able to say which of them is which because you can see the differences between them",
+    "phrase": "tell sth/sb from sth/sb",
+    "example": ""
+  },
+  {
+    "meaning": "to speak angrily to someone because they have done something wrong",
+    "phrase": "tell off sb or tell sb off",
+    "example": ""
+  },
+  {
+    "meaning": "to send a text message in reply to someone",
+    "phrase": "text back sb or text sb back",
+    "example": ""
+  },
+  {
+    "meaning": "if frozen food thaws out, or if you thaw it out, it is taken out of a freezer so that it gradually becomes warmer and is not frozen any more",
+    "phrase": "thaw out (sth) or thaw (sth) out",
+    "example": ""
+  },
+  {
+    "meaning": "to think carefully about what might happen in the future, or to make plans for things you want to do in the future",
+    "phrase": "think ahead",
+    "example": ""
+  },
+  {
+    "meaning": "to think about things that happened in the past",
+    "phrase": "think back",
+    "example": ""
+  },
+  {
+    "meaning": "to think carefully about an idea or plan before making a decision",
+    "phrase": "think over sth or think sth over",
+    "example": ""
+  },
+  {
+    "meaning": "to think carefully about something you are planning to do and to consider the possible results of it",
+    "phrase": "think through sth or thing sth through",
+    "example": ""
+  },
+  {
+    "meaning": "to start doing something with a lot of enthusiasm and energy",
+    "phrase": "throw yourself into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to force someone to leave a college, school, house or organisation",
+    "phrase": "throw out sb or throw sb out",
+    "example": ""
+  },
+  {
+    "meaning": "to vomit",
+    "phrase": "throw up (sth) or throw (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "if people are thrown together in a situation, that situation causes them to meet each other and to get to know eah other",
+    "phrase": "thrown together",
+    "example": ""
+  },
+  {
+    "meaning": "to put things in cupboards and drawers, etc. after you have been using them",
+    "phrase": "tidy away sth or tidy sth away (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to make a room or a group of things tidy by putting things in the correct place",
+    "phrase": "tidy up (sth) or tidy (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "if one event ties in with another, it is planned so that both events happen at the same time",
+    "phrase": "tie in with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to put string or rope around something so that it is fastened together",
+    "phrase": "tie up sth or tie sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to be busy so that you are unable to see or speak to anyone else or go anywhere",
+    "phrase": "tied up",
+    "example": ""
+  },
+  {
+    "meaning": "to warn someone secretly about something that will happen so that they can take action or prevent it from happening",
+    "phrase": "tip off sb or tip sb off",
+    "example": ""
+  },
+  {
+    "meaning": "a secret warning or piece of secret information",
+    "phrase": "tip-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to make a piece of writing, a speech, or a performance less offensive or less critical",
+    "phrase": "tone down sth or tone sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to put more drink into someone's glass or cup",
+    "phrase": "top up sb or top sb up",
+    "example": ""
+  },
+  {
+    "meaning": "more drink poured into a glass or cup",
+    "phrase": "top-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "when an aircraft touches down, it lands on the ground",
+    "phrase": "touch down",
+    "example": ""
+  },
+  {
+    "meaning": "when an aircraft lands",
+    "phrase": "touchdown (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to mention a subject briefly when speaking or writing about something",
+    "phrase": "touch on/upon sth",
+    "example": ""
+  },
+  {
+    "meaning": "to find someone or something after searching for them in many different places",
+    "phrase": "track down sb/sth or track sb/sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to make something suddenly begin, often a difficult or violent situation",
+    "phrase": "trigger off sth or trigger sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to put on piece of clothing to find out whether it fits you or whether you like it, especially before buying it",
+    "phrase": "try on sth or try sth on",
+    "example": ""
+  },
+  {
+    "meaning": "to test something in order t find out if it works or to decide whether you like it",
+    "phrase": "try out sth or try sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to be in a quiet or hidden place which not many people see or go to",
+    "phrase": "tucked away",
+    "example": ""
+  },
+  {
+    "meaning": "to refuse an offere or request",
+    "phrase": "turn down sb/sth or turn sb/sth down",
+    "example": ""
+  },
+  { "meaning": "to go to bed", "phrase": "turn in", "example": "" },
+  {
+    "meaning": "to touch a switch so that a machine or a piece of electrical equipment stops working, or to stop the flow or supply of something [e.g. water, electricity]",
+    "phrase": "turn off sth or turn sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to leave the road you are traveling on and travel along another one",
+    "phrase": "turn off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "a place where you can leave a main road and go onto another road",
+    "phrase": "turn-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone decide that they are not interested in something",
+    "phrase": "turn off sb or turn sb off (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "to touch a switch so that a machine or a piece of electrical equipment starts to work, or to start a flow or supply of something [e.g. water, electricity]",
+    "phrase": "turn on sth or turn sth on",
+    "example": ""
+  },
+  {
+    "meaning": "to make someone interested in something",
+    "phrase": "turn on sb or turn sb on",
+    "example": ""
+  },
+  {
+    "meaning": "to attack someone or criticise someone very strongly",
+    "phrase": "turn on/upon sb",
+    "example": ""
+  },
+  {
+    "meaning": "to happen in a particular way or to have a particular result",
+    "phrase": "turn out",
+    "example": ""
+  },
+  {
+    "meaning": "to turn a page in a book so that the side which was facing down is not facing up",
+    "phrase": "turn over (sth) or turn (sth) over",
+    "example": ""
+  },
+  {
+    "meaning": "to ask someone for help, sympathy or advice",
+    "phrase": "turn to sb",
+    "example": ""
+  },
+  {
+    "meaning": "to start to do or take something bad [e.g. crime, drugs, drink], usually because you are unhappy",
+    "phrase": "turn to sth",
+    "example": ""
+  },
+  {
+    "meaning": "if someone turns to a particular subject, or it they turn their thoughts or attention to it, they begin to think, speak or write about it",
+    "phrase": "turn (sth) to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to increase the amount of something, especially sound or heat, that is produced by a machine [e.g. television, oven]",
+    "phrase": "turn up sth or turn sth up",
+    "example": ""
+  },
+  {
+    "meaning": "if someone or something turn up somewhere, they arrive at that place",
+    "phrase": "turn up",
+    "example": ""
+  },
+  {
+    "meaning": "the number of people who come to watch or take part in an event or activity",
+    "phrase": "turnout (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "the total amount of money made by a company or business in a particular period of time",
+    "phrase": "turnover (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to put information into a computer using a keyboard",
+    "phrase": "type in sth or type sth in",
+    "example": ""
+  },
+  {
+    "meaning": "the cost or process of keeping something, such as a building, in good condition",
+    "phrase": "upkeep (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to finish a supply of something",
+    "phrase": "use up sth or use sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to relax and spend time doing very little",
+    "phrase": "veg out",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time talking with someone that you know",
+    "phrase": "visit with sb (American)",
+    "example": ""
+  },
+  {
+    "meaning": "to stay in one place without doing anything while you are waiting for something to happen",
+    "phrase": "wait about/around",
+    "example": ""
+  },
+  {
+    "meaning": "to stay awake because you are expecting someone to arrive",
+    "phrase": "wait up",
+    "example": ""
+  },
+  {
+    "meaning": "something you say to tell someone to stop so that you can talk to them or go somewhere with them",
+    "phrase": "Wait up! (American)",
+    "example": ""
+  },
+  {
+    "meaning": "to become conscious after sleeping, or to make someone to do this",
+    "phrase": "wake up (sb) or wake (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to become aware of a situation or problem",
+    "phrase": "wake up to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to get a job very easily",
+    "phrase": "walk into sth",
+    "example": ""
+  },
+  {
+    "meaning": "to steal something, or to take something without the owner's permission",
+    "phrase": "walk off with sth",
+    "example": ""
+  },
+  {
+    "meaning": "to leave a performance or meeting before it has ended because you do not like it or because you are angry",
+    "phrase": "walk out",
+    "example": ""
+  },
+  {
+    "meaning": "to become more enthusiastic about an idea",
+    "phrase": "warm to sth",
+    "example": ""
+  },
+  {
+    "meaning": "to prepare yourself for a physical activity by doing some gentle exercise",
+    "phrase": "warm up (sth) or warm (sth) up",
+    "example": ""
+  },
+  {
+    "meaning": "to become warmer, or to make something or someone warmer",
+    "phrase": "warm up (sth/sb) or warm (sth/sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "a preparation for physical activity",
+    "phrase": "warm-up (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to clean the plates, pans and other things you have used for cooking and eating a meal",
+    "phrase": "wash up (sth) or wash (sth) up (British & Australian)",
+    "example": ""
+  },
+  {
+    "meaning": "to clean your hands and face with soap and water",
+    "phrase": "wash up (American)",
+    "example": ""
+  },
+  {
+    "meaning": "something you say to tell someone to be careful so that they can avoid danger or an accident",
+    "phrase": "Watch out!",
+    "example": ""
+  },
+  {
+    "meaning": "to be careful to notice someone or something interesting",
+    "phrase": "watch out for sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to be careful to notice something, especially something that might cause you problems",
+    "phrase": "watch out for sth",
+    "example": ""
+  },
+  {
+    "meaning": "down to make someone feel tired and less able to deal with a situation",
+    "phrase": "wear down (sth) or wear (sth)",
+    "example": ""
+  },
+  {
+    "meaning": "if a feeling or the effect of something [e.g. anaesthetic, alcohol] wears off, it gradually disappears",
+    "phrase": "wear off",
+    "example": ""
+  },
+  {
+    "meaning": "use something so much that it becomes weak or damaged and cannot be used any more, or to become weak and damaged in this way",
+    "phrase": "wear out (sth) or wear (sth) out",
+    "example": ""
+  },
+  {
+    "meaning": "if you are weighed down with something, you are carrying too much of it",
+    "phrase": "weight down sb or weight sb down",
+    "example": ""
+  },
+  {
+    "meaning": "if a problem or responsibility weighs on you, it makes you worried or unhappy",
+    "phrase": "weight on/upon sb/sth",
+    "example": ""
+  },
+  {
+    "meaning": "to think carefully about the advantages and disadvantages involved in a situation before making a decision",
+    "phrase": "weigh up sth or weigh sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time in a relaxed way because you are waiting for something or because you have nothing else to do",
+    "phrase": "while away sth or while sth away",
+    "example": ""
+  },
+  {
+    "meaning": "if a business or organisation winds down, or if someone winds it down, the amount of work it does is gradually reduced until it closes completely",
+    "phrase": "wind down (sth) or wind (sth) down",
+    "example": ""
+  },
+  {
+    "meaning": "to gradually relax after doing something that has made you feel tired",
+    "phrase": "wind down",
+    "example": ""
+  },
+  {
+    "meaning": "to finally be in particular place, state, or situation, especially without having planned it",
+    "phrase": "wind up",
+    "example": ""
+  },
+  {
+    "meaning": "to finally do something, especially without having planned to",
+    "phrase": "wind up doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to tell someone something that is not true in order to make a joke",
+    "phrase": "wind up sb or wind sb up (British)",
+    "example": ""
+  },
+  {
+    "meaning": "to try hard to achieve something or improve something",
+    "phrase": "work at sth/doing sth",
+    "example": ""
+  },
+  {
+    "meaning": "to get rid of an unpleasant feeling [e.g. aggression, anger] by doing something energetic",
+    "phrase": "work off sth or work sth off",
+    "example": ""
+  },
+  {
+    "meaning": "to spend time working in order to produce or repair something",
+    "phrase": "work on/upon sth",
+    "example": ""
+  },
+  {
+    "meaning": "to do a calculation to get an answer to a mathematical question",
+    "phrase": "work out sth or work sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to understand something or to find the answer to something by thinking about it",
+    "phrase": "work out sth or work sth out (2)",
+    "example": ""
+  },
+  {
+    "meaning": "to exercise in order to improve the strength or appearance of your body",
+    "phrase": "work out",
+    "example": ""
+  },
+  {
+    "meaning": "to deal with a problem or difficulty by talking about it in detail",
+    "phrase": "work through sth or work sth through",
+    "example": ""
+  },
+  {
+    "meaning": "to try hard to achieve something",
+    "phrase": "work towards sth",
+    "example": ""
+  },
+  {
+    "meaning": "to cover something in paper, cloth, or other material, especially in order to give it someone as a present or in order to protect it",
+    "phrase": "wrap up sth or warp sth up",
+    "example": ""
+  },
+  {
+    "meaning": "to dress in warm clothes, or to dress someone in warm clothes or cover them with material that protects them from the cold",
+    "phrase": "wrap up (sb) or wrap (sb) up",
+    "example": ""
+  },
+  {
+    "meaning": "to avoid doing something that other people think you should do, often in a dishonest way",
+    "phrase": "wriggle out of sth",
+    "example": ""
+  },
+  {
+    "meaning": "to write something on a piece of paper so that you do not forget it",
+    "phrase": "write down sth or write sth down",
+    "example": ""
+  },
+  {
+    "meaning": "to accept that an amount of money [e.g. debt, investment] has been lost or will never be paid",
+    "phrase": "write off sth or write sth off (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to damage a vehicle so badly that it cannot be repaired",
+    "phrase": "write off sth or write sth off (2)",
+    "example": ""
+  },
+  {
+    "meaning": "a vehicle that is too badly damage to be repaired",
+    "phrase": "write-off (noun)",
+    "example": ""
+  },
+  {
+    "meaning": "to write something [e.g. report, list] on paper, often in order to write it in a better or more complete way",
+    "phrase": "write out sth or write sth out",
+    "example": ""
+  },
+  {
+    "meaning": "to write information on a document [e.g. cheque, prescription] so that it can be used",
+    "phrase": "write out sth or write sth out (1)",
+    "example": ""
+  },
+  {
+    "meaning": "to write something on paper or on a computer in a complete or final form, often using notes you have made",
+    "phrase": "write up sth or write sth up (2)",
+    "example": ""
+  },
+  {
+    "meaning": "if a camera zooms in, it starts to show a clear and detailed picture of something, as if the camera was moving closer to that thing",
+    "phrase": "zoom in",
+    "example": ""
+  },
+  {
+    "meaning": "if a camera zooms out, it starts to show someone or something in less detail, as if the camera was moving away from that person or thing",
+    "phrase": "zoom out",
+    "example": ""
+  },
+  {
+    "meaning": "to relax and spend time doing very little",
+    "phrase": "veg out",
+    "example": ""
+  },
+  {
+    "meaning": "if someone or something turn up somewhere, they arrive at that place",
+    "phrase": "turn up",
+    "example": ""
+  }
+]
